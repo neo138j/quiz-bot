@@ -15,40 +15,60 @@ TOKEN = os.environ.get("BOT_TOKEN", "")
 with open("questions.json", encoding="utf-8") as f:
     ALL_QUESTIONS = json.load(f)
 
-# user_data keys
-SESSION = "session"  # list of question dicts
-CURRENT = "current"  # index
-SCORE = "score"
-POLL_MAP = "poll_map"  # poll_id -> correct_option_id
+# Блоки по 50 вопросов
+BLOCKS = {
+    "b1": ALL_QUESTIONS[0:50],
+    "b2": ALL_QUESTIONS[50:100],
+    "b3": ALL_QUESTIONS[100:150],
+    "b4": ALL_QUESTIONS[150:200],
+    "b5": ALL_QUESTIONS[200:250],
+    "b6": ALL_QUESTIONS[250:310],
+}
+
+BLOCK_NAMES = {
+    "b1": "Blok 1 (1-50)",
+    "b2": "Blok 2 (51-100)",
+    "b3": "Blok 3 (101-150)",
+    "b4": "Blok 4 (151-200)",
+    "b5": "Blok 5 (201-250)",
+    "b6": "Blok 6 (251-310)",
+}
 
 
 async def start(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         "🎓 Ona tili metodikasi bo'yicha test!\n\n"
-        "Buyruqlar:\n"
+        "📦 Bloklar bo'yicha (50 ta savol):\n"
+        "/quiz_b1 — Blok 1 (1-50)\n"
+        "/quiz_b2 — Blok 2 (51-100)\n"
+        "/quiz_b3 — Blok 3 (101-150)\n"
+        "/quiz_b4 — Blok 4 (151-200)\n"
+        "/quiz_b5 — Blok 5 (201-250)\n"
+        "/quiz_b6 — Blok 6 (251-310)\n\n"
+        "🎲 Aralash:\n"
         "/quiz10 — 10 ta savol\n"
         "/quiz20 — 20 ta savol\n"
         "/quiz50 — 50 ta savol\n"
-        "/quizall — barcha 310 ta savol\n"
+        "/quizall — barcha 310 ta savol\n\n"
         "/stop — testni to'xtatish"
     )
 
 
-async def begin_quiz(update: Update, ctx: ContextTypes.DEFAULT_TYPE, count: int):
-    questions = random.sample(ALL_QUESTIONS, min(count, len(ALL_QUESTIONS)))
-    ctx.user_data[SESSION] = questions
-    ctx.user_data[CURRENT] = 0
-    ctx.user_data[SCORE] = 0
-    ctx.user_data[POLL_MAP] = {}
+async def begin_quiz(update: Update, ctx: ContextTypes.DEFAULT_TYPE, questions: list, title: str):
+    ctx.user_data["session"] = questions
+    ctx.user_data["current"] = 0
+    ctx.user_data["score"] = 0
+    ctx.user_data["poll_map"] = {}
+    ctx.user_data["title"] = title
     await update.message.reply_text(
-        f"✅ Test boshlandi! {len(questions)} ta savol.\nHar bir savolga javob bering 👇"
+        f"✅ {title}\n{len(questions)} ta savol. Boshlandi! 👇"
     )
     await send_question(update.effective_chat.id, ctx)
 
 
 async def send_question(chat_id: int, ctx: ContextTypes.DEFAULT_TYPE):
-    session = ctx.user_data.get(SESSION, [])
-    idx = ctx.user_data.get(CURRENT, 0)
+    session = ctx.user_data.get("session", [])
+    idx = ctx.user_data.get("current", 0)
     if idx >= len(session):
         await finish_quiz(chat_id, ctx)
         return
@@ -57,12 +77,8 @@ async def send_question(chat_id: int, ctx: ContextTypes.DEFAULT_TYPE):
     options = [q["correct"]] + q["wrong"]
     random.shuffle(options)
     correct_idx = options.index(q["correct"])
-
-    # Telegram poll option max 100 chars
     options = [o[:100] for o in options]
-
-    question_text = f"❓ {idx+1}/{len(session)}\n\n{q['q']}"
-    question_text = question_text[:300]
+    question_text = f"❓ {idx+1}/{len(session)}\n\n{q['q']}"[:300]
 
     msg = await ctx.bot.send_poll(
         chat_id=chat_id,
@@ -73,30 +89,27 @@ async def send_question(chat_id: int, ctx: ContextTypes.DEFAULT_TYPE):
         is_anonymous=False,
         open_period=30,
     )
-    ctx.user_data[POLL_MAP][msg.poll.id] = correct_idx
+    ctx.user_data["poll_map"][msg.poll.id] = correct_idx
 
 
 async def poll_answer(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     answer = update.poll_answer
     poll_id = answer.poll_id
-    poll_map = ctx.user_data.get(POLL_MAP, {})
-
+    poll_map = ctx.user_data.get("poll_map", {})
     if poll_id not in poll_map:
         return
-
     correct_idx = poll_map[poll_id]
     chosen = answer.option_ids[0] if answer.option_ids else -1
-
     if chosen == correct_idx:
-        ctx.user_data[SCORE] = ctx.user_data.get(SCORE, 0) + 1
-
-    ctx.user_data[CURRENT] = ctx.user_data.get(CURRENT, 0) + 1
+        ctx.user_data["score"] = ctx.user_data.get("score", 0) + 1
+    ctx.user_data["current"] = ctx.user_data.get("current", 0) + 1
     await send_question(answer.user.id, ctx)
 
 
 async def finish_quiz(chat_id: int, ctx: ContextTypes.DEFAULT_TYPE):
-    score = ctx.user_data.get(SCORE, 0)
-    total = len(ctx.user_data.get(SESSION, []))
+    score = ctx.user_data.get("score", 0)
+    total = len(ctx.user_data.get("session", []))
+    title = ctx.user_data.get("title", "Test")
     pct = round(score / total * 100) if total else 0
 
     if pct >= 86:
@@ -111,10 +124,10 @@ async def finish_quiz(chat_id: int, ctx: ContextTypes.DEFAULT_TYPE):
     await ctx.bot.send_message(
         chat_id=chat_id,
         text=(
-            f"{emoji} Test yakunlandi!\n\n"
+            f"{emoji} {title} yakunlandi!\n\n"
             f"To'g'ri javoblar: {score}/{total}\n"
             f"Natija: {pct}%\n\n"
-            "Qayta boshlash uchun /quiz10, /quiz20, /quiz50 yoki /quizall"
+            "Qayta boshlash uchun /start"
         )
     )
     ctx.user_data.clear()
@@ -122,25 +135,51 @@ async def finish_quiz(chat_id: int, ctx: ContextTypes.DEFAULT_TYPE):
 
 async def stop(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
     ctx.user_data.clear()
-    await update.message.reply_text("Test to'xtatildi. Qayta boshlash uchun /start")
+    await update.message.reply_text("Test to'xtatildi. /start")
 
 
+# Блоки
+async def quiz_b1(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
+    await begin_quiz(update, ctx, BLOCKS["b1"].copy(), BLOCK_NAMES["b1"])
+
+async def quiz_b2(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
+    await begin_quiz(update, ctx, BLOCKS["b2"].copy(), BLOCK_NAMES["b2"])
+
+async def quiz_b3(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
+    await begin_quiz(update, ctx, BLOCKS["b3"].copy(), BLOCK_NAMES["b3"])
+
+async def quiz_b4(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
+    await begin_quiz(update, ctx, BLOCKS["b4"].copy(), BLOCK_NAMES["b4"])
+
+async def quiz_b5(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
+    await begin_quiz(update, ctx, BLOCKS["b5"].copy(), BLOCK_NAMES["b5"])
+
+async def quiz_b6(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
+    await begin_quiz(update, ctx, BLOCKS["b6"].copy(), BLOCK_NAMES["b6"])
+
+# Случайные
 async def quiz10(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
-    await begin_quiz(update, ctx, 10)
+    await begin_quiz(update, ctx, random.sample(ALL_QUESTIONS, 10), "Aralash 10 ta savol")
 
 async def quiz20(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
-    await begin_quiz(update, ctx, 20)
+    await begin_quiz(update, ctx, random.sample(ALL_QUESTIONS, 20), "Aralash 20 ta savol")
 
 async def quiz50(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
-    await begin_quiz(update, ctx, 50)
+    await begin_quiz(update, ctx, random.sample(ALL_QUESTIONS, 50), "Aralash 50 ta savol")
 
 async def quizall(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
-    await begin_quiz(update, ctx, 310)
+    await begin_quiz(update, ctx, ALL_QUESTIONS.copy(), "Barcha 310 ta savol")
 
 
 def main():
     app = Application.builder().token(TOKEN).build()
     app.add_handler(CommandHandler("start", start))
+    app.add_handler(CommandHandler("quiz_b1", quiz_b1))
+    app.add_handler(CommandHandler("quiz_b2", quiz_b2))
+    app.add_handler(CommandHandler("quiz_b3", quiz_b3))
+    app.add_handler(CommandHandler("quiz_b4", quiz_b4))
+    app.add_handler(CommandHandler("quiz_b5", quiz_b5))
+    app.add_handler(CommandHandler("quiz_b6", quiz_b6))
     app.add_handler(CommandHandler("quiz10", quiz10))
     app.add_handler(CommandHandler("quiz20", quiz20))
     app.add_handler(CommandHandler("quiz50", quiz50))
