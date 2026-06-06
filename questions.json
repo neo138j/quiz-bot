@@ -1,0 +1,2792 @@
+[
+  {
+    "q": "Nutq o‘stirish ustida ishlash yo‘nalishlari belgilangan qatorni aniqlang.",
+    "correct": "So‘z ustida ishlash, so‘z birikmasi va gap ustida ishlash, bog‘lanishli nutq ustida ishlash",
+    "wrong": [
+      "Tovush va harf ustida ishlash, bo‘g‘in ustida ishlash, matn ustida ishlash",
+      "Matn ustida ishlash, rasmlar ustida ishlash.",
+      "Gap, so‘z va matn ustida ishlash"
+    ]
+  },
+  {
+    "q": "Bayonga to‘g‘ri ta’rif berilgan qatorni toping.",
+    "correct": "Namunaviy matn asosida bir oz tayyorgarlikdan so‘ng matnni qayta yozma hikoya qilish",
+    "wrong": [
+      "Bayon bog‘lanishli nutqni o‘stirishga qaratilgan mashqlar turidir",
+      "Biror matn asosida qayta hikoyalashga bayon deyiladi",
+      "Hikoya qilishga o‘rgatish mashqlari bayon hisoblanadi"
+    ]
+  },
+  {
+    "q": "Inshoning janriga ko‘ra turlari qaysi javobda to‘g‘ri berilgan?",
+    "correct": "Hikoya, tasvir va muhokama tarzidagi insho",
+    "wrong": [
+      "Individual va jamoaviy insholar",
+      "Jamoaviy insholar",
+      "Hikoya, tasvir tarzidagi insholar"
+    ]
+  },
+  {
+    "q": "Nutqiy xatolar guruhi to‘g‘ri ko‘rsatilgan qatorni toping.",
+    "correct": "Lug‘aviy-uslubiy, morfologik-uslubiy, sintaktik-uslubiy",
+    "wrong": [
+      "Kompozitsion, mantiqiy va dalillarni noto‘g‘ri bayon qilish",
+      "Bir so‘zni qayta-qayta ishlatish, mantiqiy izchillikning buzilishi, shevaga xos xatolar",
+      "So‘z ma’nolarini tushunmaslik tufayli ularni noto‘g‘ri qo‘llash"
+    ]
+  },
+  {
+    "q": "O‘quvchilarning og‘zaki va yozma nutqini o‘stirishdagi muvaffaqiyat qanday omillarga bog‘liq?",
+    "correct": "So‘zga e’tibor bilan munosabatda bo‘lish, o‘quvchilarning ko‘p mutolaa qilishi, atrofidagilarning to‘g‘ri va ifodali nutqi, ya’ni nutqiy sharoitga, bolalarning nutqiy tajribasi qanday tashkil etilishiga, nutq o‘stirishda o‘qituvchining til nazariyasiga, grammatikaga, leksikologiya va stilistika elementlariga asoslanish ko‘nikmasiga",
+    "wrong": [
+      "So‘zga e’tibor bilan munosabatda bo‘lish, O‘quvchilarning ko‘p mutolaa qilishi, atrofidagi kishilarning to‘g‘ri va ifodali nutqi, ya’ni nutqiy sharoitga",
+      "Bolalarning nutqiy tajribasi qanday tashkil etilishiga",
+      "Nutq o‘stirishda o‘qituvchining til nazariyasiga, grammatikaga, leksikologiya va stilistika elementlariga asoslanish ko‘nikmasiga"
+    ]
+  },
+  {
+    "q": "Imlogа oid mаshqlаrgа quyidаgilаrdаn qаysilаri kirаdi?1)grаmmаtik-orfogrаfik tаhlil; 2) ko‘chirib yozuv: 3) diktаntlаr; 4) leksik-grаmmаtik tаhlil; 5) bаyonlаr.",
+    "correct": "1, 2, 3, 4, 5",
+    "wrong": [
+      "1, 2, 4, 5",
+      "2, 4, 5",
+      "3, 4, 5"
+    ]
+  },
+  {
+    "q": "Boshlаng‘ich sinf onа tili dаrslаridа lug‘аt ustidа ishlаshdа qаndаy metodik usullаrdаn foydаlаnilаdi?",
+    "correct": "So‘z mа’nolаrini tаqqoslаsh vа ulаrni shаrhlаsh, so‘zlаrni kuzаtish usuli orqаli ulаrning imlosini, mа’nosini vа tаlаffuzini o‘rgаtish, so‘zlаrni belgilаrigа ko‘rа guruhlаsh",
+    "wrong": [
+      "So‘z mа’nolаrini tаqqoslаsh vа ulаrni shаrhlаsh",
+      "So‘zlаrni kuzаtish usuli orqаli ulаrning imlosini, mа’nosini vа tаlаffuzini o‘rgаtish",
+      "So‘zlаrni belgilаrigа ko‘rа guruhlаsh"
+    ]
+  },
+  {
+    "q": "Janriga ko‘ra insho nechaga bo‘linadi?",
+    "correct": "Hikoya, tasvir, muhokama",
+    "wrong": [
+      "Hikoya, individual",
+      "Muhokama, individual",
+      "Tasvir, jamoaviy insho"
+    ]
+  },
+  {
+    "q": "Insho tahlili va xatolar ustida ishlash uchun qancha vaqt ajratiladi?",
+    "correct": "20-25 daqiqa",
+    "wrong": [
+      "20-30 daqiqa",
+      "30-35 daqiqa",
+      "35-40 daqiqa"
+    ]
+  },
+  {
+    "q": "Nutqiy xatolar necha turga ajratiladi?",
+    "correct": "Lug‘aviy-uslubiy, morfologik-uslubiy, sintaktik-uslubiy",
+    "wrong": [
+      "Morfologik-uslubiy, fonetik, morfemik",
+      "Lug‘aviy-uslubiy, sintaktik, fonetik",
+      "Sintaktik-uslubiy, morfemik, sintaktik"
+    ]
+  },
+  {
+    "q": "Insho yozishda o‘quvchilar nechanchi sinfdan boshlab mustaqil ravishda reja tuzadilar?",
+    "correct": "3-4-sinflarda",
+    "wrong": [
+      "1-2-sinflarda",
+      "2-3-sinflarda",
+      "2-sinfdan"
+    ]
+  },
+  {
+    "q": "Metodik an’anaga ko‘ra matnli mashqlar qaysilar?",
+    "correct": "Tasvirlash, hikoya qilish, muhokama",
+    "wrong": [
+      "Tasvirlash, hikoya qilish",
+      "Hikoya qilish, muhokama",
+      "Tasvirlash, muhokama"
+    ]
+  },
+  {
+    "q": "Logik va grammatik qoidalar asosida tuzilgan, mustaqil, tugallangan va o‘zaro bog‘langan ma’noli qismlarga bo‘linadigan nutq bu…",
+    "correct": "Bog‘lanishli nutq",
+    "wrong": [
+      "Og‘zaki nutq",
+      "Yozma nutq",
+      "Tashqi nutq"
+    ]
+  },
+  {
+    "q": "Og‘zaki nutq ko‘pincha qay tarzda ifodalanadi?",
+    "correct": "Dialog tarzida",
+    "wrong": [
+      "Monolog tarzida",
+      "Ichki nutq tarzida",
+      "Yozma nutq tarzida"
+    ]
+  },
+  {
+    "q": "Sifat so‘z turkumi necha bosqichda o‘rganiladi?",
+    "correct": "3 bosqichda",
+    "wrong": [
+      "5 bosqichda",
+      "4 bosqichda",
+      "6 bosqichda"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich ta’limda son so‘z turkumi necha yo‘nalishda o‘rganiladi?",
+    "correct": "3 yo‘nalishda o‘rganiladi",
+    "wrong": [
+      "6 yo‘nalishda o‘rganiladi",
+      "4 yo‘nalishda o‘rganiladi",
+      "5 yo‘nalishda o‘rganiladi"
+    ]
+  },
+  {
+    "q": "Bo‘lishli va bo‘lishsiz fe’llar dasturga ko‘ra nechanchi sinfda organiladi?",
+    "correct": "3-sinfda",
+    "wrong": [
+      "4-sinfda",
+      "2-sinfda",
+      "1-sinfda"
+    ]
+  },
+  {
+    "q": "Kelasi zamon fe’li qaysi savolga javob beradi?",
+    "correct": "Nima qilmoqchi?",
+    "wrong": [
+      "Nima qildi?",
+      "Nima qiyapti?",
+      "Kim?"
+    ]
+  },
+  {
+    "q": "4-sinfda gapning uyushiq bo‘laklarini o‘rganish bilan o‘quvchilarning nima haqidagi bilimlari kengaytiriladi?",
+    "correct": "Gap bo‘laklari haqidagi bilim kengaytiriladi.",
+    "wrong": [
+      "Sifat so‘z turkumi haqidagi bilimlari kengaytiriladi.",
+      "Olmosh so‘z turkumi haqidagi bilimlari kengaytiriladi.",
+      "Ot so‘z turkumi haqidagi bilimlari kengaytiriladi."
+    ]
+  },
+  {
+    "q": "Nutqiy xatolar deganda nimani tushunasiz?",
+    "correct": "Noo‘rin tanlangan so‘zlar, noto‘g‘ri tuzilgan gaplar, morfologik shakllarni noto‘g‘ri ishlatilishi",
+    "wrong": [
+      "Nutqning mantiqiyligi, aniqligi, til vositalari, ifodaliligi kabi talablarga rioya qilinmasligi",
+      "Og‘zaki va yozma nutqning noto‘g‘ri ishlatilishi",
+      "Sinonim, antonim, frazeologizmlardan noo‘rin foydalanish"
+    ]
+  },
+  {
+    "q": "Nutqiy xatolar necha turga ajratiladi va ular qaysilar?",
+    "correct": "Lug‘aviy-uslubiy, morfologik-uslubiy, sintaktik-uslubiy",
+    "wrong": [
+      "Grammatik, morfologik",
+      "Analitik, sintetik",
+      "Lakonizm va ko‘p so‘zlilik"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda ko‘proq qaysi xatolar uchraydi?",
+    "correct": "Lug‘aviy-uslubiy",
+    "wrong": [
+      "Grammatik",
+      "Morfologik-uslubiy",
+      "Sintaktik-uslubiy"
+    ]
+  },
+  {
+    "q": "Lug‘aviy-uslubiy xatolarga qaysilar kiradi?",
+    "correct": "Bir so‘zni qayta-qayta ishlatish; So‘zning ma’nosini yoki ma’no qirrasini tushunmaslik natijasida uni aniq ma’nosida ishlata olmaslik; Shevaga xos so‘zlardan foydalanish",
+    "wrong": [
+      "Imloviy va punktuatsion xatolar",
+      "So‘zning ma’nosini yoki ma’no qirrasini tushunmaslik natijasida uni aniq ma’nosida ishlata olmaslik",
+      "Sintaktik tuzilmalarning bir xil yoki har xilligi"
+    ]
+  },
+  {
+    "q": "… xatolarga so‘z shaklini, so‘z o‘zgartiruvchi va so‘z yasovchi qo‘shimchalarni noto‘g‘ri qo‘llashdan kelib chiqadigan xatolar kiradi.",
+    "correct": "morfologik-uslubiy",
+    "wrong": [
+      "lug‘aviy-uslubiy",
+      "imloviy va punktuatsion",
+      "sintaktik-uslubiy"
+    ]
+  },
+  {
+    "q": "Sintaktik-uslubiy xatolarga nimalar kiradi?",
+    "correct": "So‘z birikmasi va gap tuzish",
+    "wrong": [
+      "Bir so‘zni qayta-qayta ishlatilishi",
+      "Bog‘lanishli nutq",
+      "Fonetika va orfografiya"
+    ]
+  },
+  {
+    "q": "Sintaktik-uslubiy xatolarning qaysi turlari xato hisoblanmaydi?",
+    "correct": "kompozitsion, mantiqiy va dalillarni no‘to‘g‘ri bayon qilish nutqiy xatolar",
+    "wrong": [
+      "so‘z yasovchi qo‘shimchalar",
+      "so‘z shakli va so‘z o‘zgartiruvchi",
+      "hoshiya va xat boshidan yozish"
+    ]
+  },
+  {
+    "q": "… xatoga insho, hikoya, bayonning tuzilgan rejaga mos kelmasligi, ya’ni voqea, kuzatishlarni bayon etishda izchillikning buzilishi kiradi.",
+    "correct": "Tipik kompozitsion",
+    "wrong": [
+      "Mantiqiy",
+      "Kompozitsion",
+      "Sintaksis"
+    ]
+  },
+  {
+    "q": "O‘quvchilar inshoga tayyorgarlik davrida qanday xatolarga yo‘l qo‘yadilar?",
+    "correct": "kompozitsion xatoga",
+    "wrong": [
+      "material to‘plashda",
+      "reja tuzish",
+      "mantiqiy izchillikka"
+    ]
+  },
+  {
+    "q": "O‘quvchilar yo‘l qo‘ygan xatolarni guruhlash, ularning turlarini aniqlash va har bir xatoning kelib chiqish sabablarini o‘rganish asosida nutqqa oid xatolarni to‘g‘irlash va ularning oldini olish tizimi ishlab chiqilga va u qaysi sinflar uchun muvofiq?",
+    "correct": "3-4 sinflar",
+    "wrong": [
+      "2-3 sinflar",
+      "1-2 sinlar",
+      "1-4 sinflar"
+    ]
+  },
+  {
+    "q": "Og‘zaki yoki yozma insho ustida ishlashning uchinchi bosqichini aniqlang",
+    "correct": "Inshoni nutqiy shakllantirish, ya’ni insho matnini tuzish, uni yozish, takomillashtirish, xatolarni to‘g‘rilash va uni tekshirish",
+    "wrong": [
+      "Mavzuga va uni yoritishga mos material tanlash, uni tartibga solish, joylashtirish, ya’ni suhbat, muhokama qilish",
+      "Material yig‘ish, ya’ni kuzatish, ekskursiya, mehnat jarayoni, rasmni ko‘rib chiqish, kinofilm, spektaklni ko‘rish, badiiy va boshqa adabiyotlarni o‘qish",
+      "Zarur materialni ajratish, reja tuzish, lug‘at ustida ishlash, imlo va leksik tomondan tayyorlash va hokazo"
+    ]
+  },
+  {
+    "q": "3-4-sinflarda insho yozish uchun qancha vaqt ajratiladi?",
+    "correct": "Odatda bir dars, zarur bo‘lib qolsa ikkinchi darsdan 15-20 daqiqa ajratiladi",
+    "wrong": [
+      "20-25 daqiqa vaqt ajratiladi",
+      "Bir dars, zarur bo‘lsa ikkinchi darsdan 30 daqiqa ajratiladi",
+      "Bir yoki bir yarim dars, ayrim vaqtlarda ikki dars"
+    ]
+  },
+  {
+    "q": "Chirоyli yozuv malakalarini shakllantirishda eng asоsiy vazifalari qaysilar?",
+    "correct": "Yozma, bоsma harf shakllarini tanishtirish",
+    "wrong": [
+      "Partaga to‘g‘ri o‘tirish",
+      "Ruchkadan to‘g‘ri fоydalanish",
+      "Daftardan fоydalanish"
+    ]
+  },
+  {
+    "q": "Insho yozish darsining asosiy bosqichini aniqlang.",
+    "correct": "O‘qituvchi kuzatuvi ostida inshoni yozish",
+    "wrong": [
+      "Kuzatish davrida to‘plangan materialni tartibga solish",
+      "Reja tuzish va rejaga aniqlik kiritish",
+      "Mavzuni muhokama qilish"
+    ]
+  },
+  {
+    "q": "O‘qituvchi yozilgan inshoni necha kun tekshiradi?",
+    "correct": "Ikki kun ichida",
+    "wrong": [
+      "Bir hafta davomida",
+      "Shu kunning o‘zida tekshirishi shart",
+      "4-5 kun davomida"
+    ]
+  },
+  {
+    "q": "Rasmlar seriyasi asosida birinchi marta yozdiriladigan insho uchun o‘qituvchining birinchi vazifasini aniqlang.",
+    "correct": "O‘quvchilarni inshoning yangi turi bo‘lgan rasmlar seriyasi asosidagi insho bilan tanishtirish",
+    "wrong": [
+      "Rasmli reja asosida matn rejasini tuzish",
+      "Reja qismlariga mos ravishda matnni xatboshilariga bo‘lish",
+      "Reja qismlarini xatboshidan yozishga o‘rgatish"
+    ]
+  },
+  {
+    "q": "O‘quvchilar yozgan inshosini baholashda inshoning hajmi ya’ni so‘z, gap soni, ko‘p so‘zlilik hisobga olinadimi?",
+    "correct": "Ha, inshoning hajmi baholashdagi asosiy me’yorlardandir",
+    "wrong": [
+      "Yo‘q, asosiysi, imloviy va punktuatsion savodxonlikdir",
+      "Yo‘q, insho mavzusining yoritilishi undan muhimroq hisoblanadi",
+      "Baholashda faqat insho mavzusining yoritilishi hisobga olinadi"
+    ]
+  },
+  {
+    "q": "O‘quvchilarning inshosini baholashda real yondashishga nimalar imkon beradi?",
+    "correct": "O‘quvchilar inshosini baholash me’yorlari",
+    "wrong": [
+      "O‘quvchilarning ijodkorligi",
+      "O‘quvchilarning inshosining qanchalik to‘g‘ri yozilganligi",
+      "Insho darsining to‘g‘ri tashkil etilganligi"
+    ]
+  },
+  {
+    "q": "So‘zlarning ma’nosini tushuntirish o‘quvchilarni nimasini rivojlantiradi?",
+    "correct": "Lug‘atini boyitadi va nutqini o‘stiradi",
+    "wrong": [
+      "Yaxshi va tez fahmlashga yordam beradi",
+      "So‘z boyligini oshiradi",
+      "Bog‘lanishli nutqini o‘stiradi"
+    ]
+  },
+  {
+    "q": "Ko‘chma ma’noda ishlatilgan obrazli so‘zlar va badiiy nutq birliklari … o‘qilgandan keyin tushuntiriladi, chunki ularning ma’nosi matn mazmunidan, kontekstdan yaxshi tushuniladi.",
+    "correct": "Matn",
+    "wrong": [
+      "So‘z",
+      "Gap",
+      "So‘z birikmasi"
+    ]
+  },
+  {
+    "q": "Metodikada so‘zlarni tushuntirishning nechta usullaridan foydalaniladi?",
+    "correct": "7 ta",
+    "wrong": [
+      "5 ta",
+      "6 ta",
+      "8 ta"
+    ]
+  },
+  {
+    "q": "So‘zni kontekst asosida tushuntirish deganda nimani tushunasiz?",
+    "correct": "O‘quvchilar tushunmaydigan so‘z ularga tushunarli so‘zlar qo‘llangan gap (yoki matn) yordamida tushuntirilishi",
+    "wrong": [
+      "Ko‘chma ma’noda ishlatiladigan so‘zlarning ma’nosi",
+      "Atamalarning ma’nosini tushuntirish",
+      "O‘quvchilar bog‘lanishli nutqini o‘stirish."
+    ]
+  },
+  {
+    "q": "So‘z ma’nosini lug‘atdan va o‘qish kitoblarida matn ostida berilgan izohdan foydalanib tushuntirish deganda nimani tushunasiz?",
+    "correct": "O‘quvchilarni izohdan mustaqil foydalanib, so‘z ma’nosini mustaqil tushunish",
+    "wrong": [
+      "So‘zning ma’nosini tushuntirish",
+      "So‘zlarni taqqoslash",
+      "Lug‘at ustida ishlash"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda bog‘lanishli nutqqa oid mashq turlari qay tarzda beriladi?",
+    "correct": "Nazariyasiz amaliy tarzda",
+    "wrong": [
+      "Faqat amaliy tarzda",
+      "Faqat nazariy tarzda",
+      "Nazariy va amaliy tarzda"
+    ]
+  },
+  {
+    "q": "Bog‘lanishli nutqqa oid asosiy ko‘nikmalarning qaysi birida bayon va inshoni nutqiy shakllantirishdan oldin unga til tomondan tayyorgarlik ko‘riladi?",
+    "correct": "Fikrni adabiy til me’yorlariga rioya qilgan holda to‘g‘ri ifodalay olish ko‘nikmasi",
+    "wrong": [
+      "Inshoni asosiy fikrga bo‘ysundirish ko‘nikmasi",
+      "Yozilgan matnni takomillashtirish ko‘nikmasi",
+      "Mavzuni tushuntirish, chegarasini aniqlash va uni nisbatan to‘liq yoritish ko‘nikmasi"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinf darsliklarida berilgan iboralar qanday ma’nolarda keladi?",
+    "correct": "Ijobiy va salbiy ma’nolarda keladi",
+    "wrong": [
+      "Neytral ma’nolarda keladi",
+      "Ijobiy ma’nolarda keladi",
+      "Salbiy ma’nolarda keladi"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda iboralarning ma’nosiga ko‘ra guruhlash ishlari nechanchi sinfda amalga oshirilganligi ma’qul?",
+    "correct": "3-4- sinfda",
+    "wrong": [
+      "2-3-sinfda",
+      "1-2-sinfda",
+      "4-sinfda"
+    ]
+  },
+  {
+    "q": "So‘zning leksik ma’nosini aniqlash maqsadida uni morfemalarga ajratish til haqidagi fanda o‘zining qanday asosiga ega?",
+    "correct": "Nazariy",
+    "wrong": [
+      "Amaliy",
+      "Fonetik",
+      "Morfologik"
+    ]
+  },
+  {
+    "q": "Metodist olimа T. G. Rаmzаevа boshlаng‘ich sinflаrdа gаp ustidа ishlаshni shаrtli rаvishdа nechа yo‘nаlishgа bo‘lаdi?",
+    "correct": "5",
+    "wrong": [
+      "4",
+      "3",
+      "6"
+    ]
+  },
+  {
+    "q": "Gаp tаrkibidаgi so‘z birikmаlаrni аjrаtish ko‘nikmasini shаkllаntirish uchun qаndаy mаshqlаrdаn foydаlаnilаdi?",
+    "correct": "Gаplаrni yoyish, so‘zlаri аrаlаsh berilgаn gаpni qаytа tiklаsh uzluksiz (tinish belgilаrisiz) mаtndаn gаplаrni аjrаtish, gаp chizmаsini chizish, o‘qituvchi bergаn chizmа yoki so‘roqlar аsosidа gаp tuzish, gаpni tаhlil qilish.",
+    "wrong": [
+      "Uzluksiz (tinish belgilаrisiz) mаtndаn gаplаrni аjrаtish, gаp chizmаsini chizish",
+      "O‘qituvchi bergаn chizmа yoki so‘roqlar аsosidа gаp tuzish, gаpni",
+      "Gаplаrni yoyish, so‘zlаri аrаlаsh berilgаn gаpni qаytа tiklаsh"
+    ]
+  },
+  {
+    "q": "Gаp ustidа ishlаsh mаshqlаri to‘g‘ri vа to‘liq ko‘rsаtilgаn qаtorni аniqlаng.",
+    "correct": "Nаmunа аsosidаgi mаshqlаr: konstruktiv mаshqlаr, ijodiy mаshqlаr",
+    "wrong": [
+      "Morfologik, sintetik mаshqlаr",
+      "Ijodiy mаshqlаr, аnаlitik mаshqlаr",
+      "Ko‘chirib yozish, nuqtаlаr o‘rnigа qo‘yib yozish mаshqlаri"
+    ]
+  },
+  {
+    "q": "“Metod” so‘zi qanday ma’nolarni anglatadi?",
+    "correct": "bilish va tadqiqot yo‘li, nazariya, ta’limot",
+    "wrong": [
+      "nazariya, ta’limot",
+      "Bilish va tadqiqot yo‘li, nazariya",
+      "ta’limot"
+    ]
+  },
+  {
+    "q": "Ona tili o‘qitish metodikasining predmeti ko‘rsatilgan javobni toping.",
+    "correct": "Ta’lim berish jarayonida ona tilini egallash",
+    "wrong": [
+      "Ta’lim berish jarayonida barkamol shaxsni tarbiyalash",
+      "Ona tilining imlo qoidalarini, og‘zaki nutqni egallash",
+      "Ona tilining tovush tuzilishi va grafikasini egallash"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinf ona tili o‘qitish metodikasining vazifasi qaysi qatorda berilgan?",
+    "correct": "Nimani o‘qitish kerak. Qanday o‘qitish kerak. Nega xuddi mana shunday o‘qitish kerak.",
+    "wrong": [
+      "O‘quvchilarning og‘zaki va yozma nutqining to‘g‘ri shakllanishiga g‘amxo‘rlik qiladi.",
+      "Amaliy fan sifatida o‘quvchiga ta’lim va tarbiya berish vazifasini bajaradi.",
+      "Boshlang‘ich sinf o‘quvchilarining nutqini o‘stiradi."
+    ]
+  },
+  {
+    "q": "Nimani o‘qitish kerak? savoliga javob bo‘lgan qatorni aniqlang.",
+    "correct": "Ta’lim mazmunini ishlab chiqadi. Dastur, darslik va qo‘llanmala r yaratib beradi, ularning samaradorligini tekshirib beradi.",
+    "wrong": [
+      "Eng foydali metodlarni ilmiy nuqtai nazardan o‘rganish, tanlangan metodlarniasoslash, tavsiyalarni eksperementdan o‘tkazish",
+      "Ta’lim metodlarini, usullari, ish turlarini, yozma ishlar, mashqlar sistemasini ishlab chiqadi.",
+      "Interfaol usullarni qo‘llagan holda o‘qitish metodini ishlab chiqadi."
+    ]
+  },
+  {
+    "q": "Ona tili ta’lim tizimining qaysi bosqichlarida o‘rgatiladi?",
+    "correct": "Maktabgacha tarbiya, boshlang‘ich ta’lim, o‘rta maktab, kollej va oliy o‘quv yurtlarida",
+    "wrong": [
+      "Boshlang‘ich ta’lim va o‘rta maktabda",
+      "Boshlang‘ich ta’lim, o‘rta maktab, pedbilim yurti va oliy o‘quv yurtlarida",
+      "Boshlang‘ich ta’lim, o‘rta maktab va oliy o‘quv yurtlarida."
+    ]
+  },
+  {
+    "q": "Ona tili o‘qitish metodikasining asosiy bo‘limlari izchil berilgan javobni toping.",
+    "correct": "Savod o‘rgatish metodikasi, o‘qish metodikasi, grammatika va imlo metodikasi, o‘quvchilarning bog‘lanishli nutqini o‘stirish metodikasi",
+    "wrong": [
+      "Savod o‘rgatish metodikasi, sinfda o‘qish metodikasi, sinfdan tashqari o‘qish metodikasi, fonetika, so‘z yasalishi, grammatika va imlo metodikasi, o‘quvchilarning bog‘lanishli nutqini o‘stirish metodikasi",
+      "Savod o‘rgatish metodikasi va nutq o‘stirish, o‘qish metodikasi va nutq o‘stirish, grammatika va imlo, nutq o‘stirish metodikasi.",
+      "Savod o‘rgatish metodikasi, o‘qish metodikasi, grammatika va imlo metodikasi, bog‘lanishli nutqini o‘stirish metodikasi, husnixat metodikasi"
+    ]
+  },
+  {
+    "q": "Ona tili o‘qitish metodikasi bog‘liq bo‘lgan fanlar:",
+    "correct": "Pedagogika-psixologiya, umumiy pedagogika, psixolingvistika, didaktik, adabiyotshunoslik",
+    "wrong": [
+      "Pedagogika, didaktika, psixologiya, falsafa, tilshunoslik.",
+      "Adabiyotshunoslik, arxeologiya.",
+      "San’atshunoslik, etnografiya."
+    ]
+  },
+  {
+    "q": "Empirik metod nimalarni aniqlash uchun tatbiq etiladi?",
+    "correct": "Ilg‘or o‘qituvchilar tajribasini o‘rganish va baholash, ommalashtirish, o‘quvchilarni o‘qitish jarayonini kuzatish, o‘qituvchi va o‘quvchi faoliyatini aniqlash uchun tatbiq etiladi.",
+    "wrong": [
+      "Masalaning metodik asosini aniqlash maqsadida",
+      "Hozirgi fanlarga oid masalani aniqlash maqsadida",
+      "Masala tarixini aniqlash maqsadida"
+    ]
+  },
+  {
+    "q": "Muammoli oʻqitish metodiga kim asos slogan?",
+    "correct": "Amerikalik pedagog Dyun 1894-yilda asos solgan.",
+    "wrong": [
+      "Rus pedagogi Ushinskiy 1894-yilda asos solgan.",
+      "Arab pedagogi Mustafo 1894-yilda asos solgan.",
+      "Oʻzbek pedagogi Avloniy 1894-yilda asos solgan."
+    ]
+  },
+  {
+    "q": "Mustaqillikdan soʻng “Davlat ta’lim standarti” nechanchi yilda yaratilgan?",
+    "correct": "1999-yilda",
+    "wrong": [
+      "2000-yilda",
+      "2011-yilda",
+      "2005-yilda"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatishning asosiy metodlari ko‘rsatilgan javobni belgilang.",
+    "correct": "Analitik – sintetik tovush metodi.",
+    "wrong": [
+      "Suhbat metodi",
+      "Muammoli yarim izlanish metodi.",
+      "Suhbat va tushuntirish metodi."
+    ]
+  },
+  {
+    "q": "Psixologo-lingvistik nuqtai nazardan analitik-sintetik tovush metodida nimalarga ahamiyat beriladi?",
+    "correct": "Savod o‘rgatishda bolaning egallagan nutq malakasiga asoslanadi. Savod o‘rgatishning asosiga tovush, o‘qish birligi sifatida bug‘in olinadi. Tovush va harfni o‘rgatishning qulay tartibi, tovush va harfning mosligi va osonligi, ta’limning tarbiyaviy va o‘stiruvchan harakteri hisobga olinadi.",
+    "wrong": [
+      "Savod o‘rgatishda o‘quvchilarning fonematik eshitish qobiliyatlari, tovushlarni to‘g‘ri talaffuz qilishlari, analiz, sintez mashqlari asos qilib olinadi.",
+      "Savod o‘rgatishda o‘quvchining o‘qish va yozishni bila olishi, gaplarni ifodali qilib o‘qiy olishi hisobga olinadi.",
+      "Savod o‘rgatishda o‘quvchining xotirasi, tovush va harflarni taniy olishi, bug‘inlab o‘qiy olishi asos qilib olinadi."
+    ]
+  },
+  {
+    "q": "Analitik-sintetik tovush metodi savod o‘rgatishga tashkiliy tomondan qanday yondashadi?",
+    "correct": "Tashkiliy tomondan 2 davrga bo‘linadi, alifbegacha tayyorgarlik davri, alifbe davri, yozuvga va o‘qishga o‘rgatish parallel olib boriladi.",
+    "wrong": [
+      "Tashkiliy tomondan, 3 davrga bo‘linadi, oldin o‘qishga, so‘ng yozuvga o‘rgatiladi, oldin kichik, so‘ng bosh harfyozdiriladi.",
+      "Savod o‘rgatish yakka tartibda olib boriladi.",
+      "Tashkiliy tomondan savod o‘rgatish aprelgacha davom etadi, 3 bosqichga bo‘linadi, harf-tovush o‘rganilmaydigan bosqich, unli tovush va harf o‘rganiladigan bosqich alifbo bosqichlariga bo‘linadi."
+    ]
+  },
+  {
+    "q": "Alifbogacha tayyorgarlik davri nechta bosqichga bo‘linadi?",
+    "correct": "2 bosqichga",
+    "wrong": [
+      "3 bosqichga",
+      "1 bosqichga",
+      "4 bosqichga"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish davrida undosh tovushlarni qaysi tovushlardan boshlab o‘rgatiladi?",
+    "correct": "sonor tovushlar",
+    "wrong": [
+      "sirg‘aluvchi tovushlar",
+      "portlovchi tovushlar",
+      "jarangli tovushlar"
+    ]
+  },
+  {
+    "q": "Bolalarning savod o‘rgatishga tayyorgarligini hisobga olish qaysi javobda batafsil bayon qilingan?",
+    "correct": "O‘qish ko‘nikmasi, yozuv ko‘nikmasi, og‘zaki bog‘lanishli nutqi.",
+    "wrong": [
+      "Yozuv ko‘nikmasi, o‘qish ko‘nikmasi.",
+      "Og‘zaki bog‘lanishli nutqi, kam yo ko‘p she’rni yod biladi, 2 yoki 3 ertakni biladi, tortinib yoki tortinmay ayta oladi, matnga yaqinlashtirib aytib beradi, harflarni yoki so‘z va gapni o‘qiy oladi.",
+      "Yozuv ko‘nikmasi: harflarni bosma shakli yoki yozma shaklini yoza oladi, o‘z ismini yoza oladi, barcha gaplarni yoza oladi, so‘z va gapni o‘qiy oladi."
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish mashqlarining turlari qaysilar?",
+    "correct": "Analiz mashqlari, sintez mashqlari, artikulyatsiya va burro talaffuz mashqlari.",
+    "wrong": [
+      "To‘g‘ri va burro tallafuz mashqlari.",
+      "Matnni gaplarga ajratish mashqlari, bo‘g‘inlarni tovushlarga ajratish mashqlari.",
+      "Tovush harf tahlili mashqlari"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish jarayonida o‘quvchilar amaliy o‘zlashtiradigan bilimlar sistemasi berilgan javobni belgilang.",
+    "correct": "Grammatika va imlodan ayrim materiallarni amaliy o‘zlashtiradilar. Gaplarni atoqli otlarni bosh harf bilan yozishni. So‘zlarning talaffuzi bilan yozilishini taqqoslash orqali ayrim harflar imlosini o‘zlashtiradilar. O‘quvchilar jarangli va jarangsiz undoshlar”, “asosdosh so‘zlar” mavzusini o‘zlashtirishga tayyorlanadi.",
+    "wrong": [
+      "So‘zlarni ajratib, qo‘shib yozishni, chiziqcha bilan yozishni o‘zlashtiradilar.",
+      "To‘g‘ri yozuvga o‘rgatuvchi imloviy bilimlarni amaliy o‘zlashtiradilar.",
+      "So‘zlarni, gaplarni, matnni orfoepik to‘g‘ri o‘qiy olishi, tahlil qilingan 2-3 ta gapni yoddan yoza olishni"
+    ]
+  },
+  {
+    "q": "Grafik (yozuv) malakalarini shakllantirish bosqichlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "correct": "Qisqa va uzun qiya chiziq, to‘g‘ri tayoqchalarni chizish, chamalashga o‘rgatish, harf elementlarini yozish, bosh va kichik harflarini yozish, harf birikmalarini, bo‘g‘in, so‘z yozish.",
+    "wrong": [
+      "Alfavitdagi unli harflarni, undosh harflarni, bo‘g‘in, so‘z yozish.",
+      "Partada to‘g‘ri o‘tirish, daftarni partada 250 qiyalikda qo‘yish, ruchkani uch (3) barmoq orasida ushlash, yozuvni mashq qilish.",
+      "Harf elementlarini yozish, tahlil qilingan ikki – so‘zli gapni o‘qituvchi yordamida yozish, talaffuzi yozilishidan farq qilmaydigan so‘zlarni ko‘chirib yozish, diktovka bilan yozish."
+    ]
+  },
+  {
+    "q": "Yozuv darsida o‘quvchilar egallaydigan amaliy imloviy bilimlar majmui ko‘rsatilgan javobni belgilang.",
+    "correct": "Talaffuzi yozilishidan farq qilmaydigan so‘zlarni to‘g‘ri yozishni, gapda so‘zlarni alohida yozishni, so‘zlarni bo‘g‘inlab ko‘chirishni kishilarning, shahar, ko‘cha, hayvonlarning nomlarini bosh harf bilan yozish.",
+    "wrong": [
+      "Jarangli va jarangsiz undoshli so‘zlarni to‘g‘ri yozishni, alohida va chiziqcha bilan yoziladigan so‘zlarni, bo‘g‘inga bo‘lib va bo‘g‘in ko‘chirish qoidasiga ko‘ra yoziladigan so‘zlarni, bosh harflar imlosini",
+      "Cho‘ziq va qisqa aytiladigan undoshli so‘zlarni, jarangli va jarangsiz undoshli so‘zlarni, bo‘g‘in ko‘chirish va bosh harflar imlosini.",
+      "Qo‘shma so‘z, sodda so‘z, juft so‘zlarining yozilishini, bo‘g‘in ko‘chirilishi, bosh harflar imlosini."
+    ]
+  },
+  {
+    "q": "Boshlangʻich sinflarda ona tili oʻqitish metodikasi necha boʻlimdan iborat?",
+    "correct": "4 boʻlimdan",
+    "wrong": [
+      "3 boʻlimdan",
+      "5 boʻlimdan",
+      "6 boʻlimdan"
+    ]
+  },
+  {
+    "q": "Tilimizda nechta shaxs mavjud?",
+    "correct": "3 ta",
+    "wrong": [
+      "2 ta",
+      "5 ta",
+      "4 ta"
+    ]
+  },
+  {
+    "q": "Xalq ogʻzaki ijodining janrlaridan biri boʻlgan, qochiriqlar ishtirok etuvchi kulguli, kichik hajmli hikoya bu...",
+    "correct": "Latifa",
+    "wrong": [
+      "Tez aytish",
+      "Maqol",
+      "Topishmoq"
+    ]
+  },
+  {
+    "q": "Oʻquvchilar oʻqituvchi tavsiya etgan til dalillarini kuzatib, tahlil qilib, shu asosda xulosa va takliflar keltirishi qaysi metod orqali amalga oshiriladi?",
+    "correct": "Induksiya metodi",
+    "wrong": [
+      "Analiz metodi",
+      "Sintez metodi",
+      "Deduksiya metodi"
+    ]
+  },
+  {
+    "q": "Grammatik tahlil qaysi mashqqa kiradi?",
+    "correct": "Analitik mashqqa kiradi",
+    "wrong": [
+      "Sintetik mashqqa kiradi",
+      "Morfologik mashqqa kiradi",
+      "Guruhlashga oid mashqlar kiradi"
+    ]
+  },
+  {
+    "q": "2-sinfda Ot soʻz turkumi boʻyicha beriladigan bilimlar nimalardan iborat?",
+    "correct": "Otlarning leksik ma’nosi, atoqli va turdosh otlar atamasiz oʻrgatiladi.",
+    "wrong": [
+      "Otlarning birlik va koʻplikda qoʻllanishi ustida ishlanadi.",
+      "Otlarning egalik qoʻshimchalari bilan qoʻllanishi oʻrgatiladi.",
+      "Turdosh otlar haqida ma’lumot beriladi."
+    ]
+  },
+  {
+    "q": "Kelishiklar qanday kategoriya hisoblanadi?",
+    "correct": "Sintaktik kategoriya hisoblanadi",
+    "wrong": [
+      "Grammatik kategoriya hisoblanadi",
+      "Fonetik kategoriya hisoblanadi",
+      "Kelishik kategoriyasi hisoblanadi"
+    ]
+  },
+  {
+    "q": "Soʻzning eng kichik, boʻlinmaydigan ma’noli qismi bu…",
+    "correct": "Morfema",
+    "wrong": [
+      "Affiks",
+      "Gap",
+      "Leksika"
+    ]
+  },
+  {
+    "q": "Morfema necha turga boʻlinadi?",
+    "correct": "2 turga",
+    "wrong": [
+      "3 turga",
+      "5 turga",
+      "6 turga"
+    ]
+  },
+  {
+    "q": "Soʻz turkumlarini oʻrganishdagi metodlar toʻgʻri koʻrsatilgan qatorni aniqlang.",
+    "correct": "Evristik metod, yarim izlanishli muammoli metod, tarmoqlash metodi, mustaqil ish metodi, induktiv va deduktik metodlar oʻ",
+    "wrong": [
+      "Oʻquvchilarning ogʻzaki va yozma nutqini oʻstirish, lugʻatini yangi ot, sifat, son, fe’llar bilan boyitish, soʻzlardan toʻgʻri foydalanish malakasini oʻstirish, til dalillarini kuzatish, savol-javob",
+      "Ot, sifat, son, fe’l haqida tushuncha berish, bu soʻz turkumlariga oid soʻzlarni toʻgʻri talaffuz qilish va yoza olish, suhbat, darslik bilan ishlash",
+      "Soʻz turkumlari: ot, sifat, son, fe’l, ravish haqida tushuncha berish, bu soʻz turkumlariga oid soʻzlardan nutqda toʻgʻri foydalana olish, koʻrgazmadan foydalanish"
+    ]
+  },
+  {
+    "q": "Otni oʻrganishga tayyorlov bosqichi qaysi davrga toʻgʻri keladi?",
+    "correct": "Savod oʻrgatish davriga",
+    "wrong": [
+      "3-sinf davriga",
+      "2-sinf davriga",
+      "4- sinf davriga"
+    ]
+  },
+  {
+    "q": "1-sinf oʻquvchilari savod oʻrgatish davrida qaysi punktuatsiya belgilari bilan tanishadilar?",
+    "correct": "Nuqta, soʻroq, undov belgilari bilan amaliy tanishadilar.",
+    "wrong": [
+      "Ikki nuqta, nuqta vergul belgilari bilan amaliy tanishadilar.",
+      "Undov, ikki nuqta, belgilari bilan amaliy tanishadilar.",
+      "Soʻroq, undov, ikki nuqta belgilari bilan amaliy tanishadilar."
+    ]
+  },
+  {
+    "q": "Tinish belgilarining yigʻindisi bu…",
+    "correct": "Punktuatsiya",
+    "wrong": [
+      "Fonetika",
+      "Morfologiya",
+      "Sintaksis"
+    ]
+  },
+  {
+    "q": "Soʻzda albatta qatnashadigan va leksik ma’no anglatadigan morfema bu…",
+    "correct": "Asos morfema",
+    "wrong": [
+      "Affiksal morfema",
+      "Soʻz yasovchi morfema",
+      "Shakl yasovchi morfema"
+    ]
+  },
+  {
+    "q": "Soʻz tarkibi necha bosqichda oʻrgatiladi?",
+    "correct": "4 bosqichda",
+    "wrong": [
+      "3 bosqichda",
+      "2 bosqichda",
+      "5 bosqichda"
+    ]
+  },
+  {
+    "q": "Asosdosh soʻzlarning umumiy qismi bu…",
+    "correct": "Asos",
+    "wrong": [
+      "Qoʻshimcha",
+      "Soʻz",
+      "Gap"
+    ]
+  },
+  {
+    "q": "Boshlangʻich sinfda qaysi soʻz turkumlari oʻrganiladi?",
+    "correct": "Ot,sifat,fe’l,son,kishilik olmoshi.",
+    "wrong": [
+      "Ot, sifat, son,fe’l.",
+      "Fe’l,son,kishilikolmoshi.",
+      "Ot, kishilik olmoshi."
+    ]
+  },
+  {
+    "q": "Nechanchi sinfdan boshlab soʻz turkumlariga atama beriladi?",
+    "correct": "3-sinfdan boshlab",
+    "wrong": [
+      "4-sinfdan boshlab",
+      "2-sinfdan boshlab",
+      "1-sinfdan boshlab"
+    ]
+  },
+  {
+    "q": "Ot soʻz turkumining egalik qoʻshimchalari bilan qoʻllanishi nechanchi sinfdan oʻrganiladi?",
+    "correct": "4-sinfdan boshlab",
+    "wrong": [
+      "3-sinfdan boshlab",
+      "2-sinfdan boshlab",
+      "1-sinfdan boshlab"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish jarayoni yozuv darslarida o‘tkaziladigan diktant turlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "correct": "Ta’limiy diktant, izohli diktant, rasm diktant, yoddan yozuv diktant, saylanma diktant.",
+    "wrong": [
+      "Tekshrish diktanti, harfiy diktant, bo‘g‘in diktanti.",
+      "Harfiy diktant, ta’limiy diktant",
+      "Ta’limiy diktant va tekshirish diktanti."
+    ]
+  },
+  {
+    "q": "Alifbogacha bo‘lgan davrdagi o‘qish darslarining vazifalari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "correct": "Nutq og‘zaki va yozma nutq gap, nutqning gaplardan tuzilishi, so‘z gaplarning so‘zlardan tuzilishi, bo‘g‘in, so‘zlarning bo‘g‘inlarga bo‘linishi, tovush, unli va undosh tovushlar, unli tovush va harflar bilan tanishtirish.",
+    "wrong": [
+      "Tovush va harf haqida, harf elementlarini yozish, bo‘g‘in, so‘z tuzilishi, gap tuzilishi haqida ma’lumot.",
+      "Nutq turlari og‘zaki va yozma nutq, ichki va tashqi nutq , bo‘g‘in, so‘z , gap, tovush, unli va undosh tovush haqida tushuncha hosil qilish.",
+      "Bog‘lanishli nutq, unli va undosh tovush turlari, bo‘g‘in ko‘chirilishi, gapning maqsadga ko‘ra turlari, so‘zning tuzilishi haqida tushuncha hosil qilish."
+    ]
+  },
+  {
+    "q": "4-sinf o‘quvchilarining o‘qish malakasi qaysi bosqichga to‘g‘ri keladi.",
+    "correct": "Sidirg‘a o‘qish bosqichiga",
+    "wrong": [
+      "Bo‘g‘inlab o‘qish bosqichiga",
+      "Bo‘g‘inlab sidirg‘a o‘qish bosqichiga",
+      "Harflarni qo‘shgan holda bo‘g‘inlab o‘qish bosqichiga"
+    ]
+  },
+  {
+    "q": "To‘g‘ri o‘qishni ta’minlovchi shartlar qaysi javobda to‘g‘ri berilgan?",
+    "correct": "Matnni o‘qishdan oldin o‘qilishi va bo‘g‘in tuzilishi murakkab so‘zlarni, birikma va gaplarni va ular ustida ishlash usullarini belgilab olish lozim.",
+    "wrong": [
+      "Ko‘p bo‘g‘inli, murakkab so‘zlarni doskaga yoki kartonga bo‘g‘inlab yozib, oldin bo‘g‘inlab, so‘ng sidirg‘a o‘qitiladi.",
+      "So‘z ma’nolarini tushuntirish.",
+      "Ichda o‘qish va shivirlab o‘qishdan foydalanish."
+    ]
+  },
+  {
+    "q": "To‘g‘ri o‘qishga o‘rgatishda qo‘llaniladigan usul berilgan javobni belgilang.",
+    "correct": "So‘z ma’nolarini tushuntirish.",
+    "wrong": [
+      "Matnni to‘g‘ri o‘qish uchun sharoit yaratish.",
+      "Ma’nosi tushunarsiz so‘zlarni aniqlash.",
+      "Xatolarning to‘g‘rilashning to‘g‘ri sistemasini ishlab chiqish."
+    ]
+  },
+  {
+    "q": "Xato o‘qishning kelib chiqish sabablari qaysi javobda berilgan?",
+    "correct": "Tez o‘qiyman deb va so‘z ma’nosini tushunmaslik sababli xato o‘qiydilar.",
+    "wrong": [
+      "Ovoz chiqarib o‘qish tufayli",
+      "Ichda o‘qish tufayli",
+      "Yomon o‘qiydigan o‘quvchilar xato o‘qiydilar."
+    ]
+  },
+  {
+    "q": "Ongli o‘qishni ta’minlovchi metodik shartlarni aniqlang.",
+    "correct": "Ongli o‘qish o‘quvchining hayotiy tajribasiga, so‘zning leksik ma’nosini, gapda so‘zlarning bog‘lanishini tushunishga bog‘lik.",
+    "wrong": [
+      "Ongli o‘qish asarning badiiy vositalariga bog‘lik.",
+      "Ongli o‘qish ifodali o‘qiy olishga bog‘lik.",
+      "Ongli o‘qish asarning mazmuniga, g‘oyaviy yo‘nalishiga bog‘liq."
+    ]
+  },
+  {
+    "q": "Yangi asarni o‘rganishda tayyorgarlik ishlarining vazifalari berilgan javobni belgilang.",
+    "correct": "Asarda tasvirlangan voqealari haqida tasavvur qilishlari uchun uni hayot bilan bog‘lash, yozuvchi haqida ma’lumot berish asarni emostional idrok etishga tayyorlash, lug‘at ustida ishlash: asarni o‘qib berish: o‘quvchilarning dastlabki tasavvurlarini aniqlovchi suhbat.",
+    "wrong": [
+      "Kirish suhbati: asar mazmunidan tushunishni qiyinlashtiradigan so‘zlar ustida ishlash: asarni o‘qish, asar tahlili, yakunlovchi suhbat.",
+      "Asarning o‘qishga tayyorgarlik asar tahlili lug‘at ustida ishlash, asarni o‘qish, umumlashtiruvchi suhbat.",
+      "Asarni o‘qish, kirish suhbati, asar tahlili, lug‘at ustida ishlash, yakunlovchi suhbat."
+    ]
+  },
+  {
+    "q": "Ichda o‘qishning afzalligi nimada?",
+    "correct": "Matn (asar) ustida mustaqil ishlash ko‘nikmalari takomillashadi, o‘qituvchi har bir o‘quvchining mustaqil ishlash jarayonidagi o‘zlashtirish darajalarini aniqlaydi.",
+    "wrong": [
+      "Matnni tez tushunadilar, bir vaqtning o‘zida butun sinf o‘quvchilari o‘qiydi.",
+      "Bola estetik zavq oladi, ongli o‘qiydi.",
+      "O‘qituvchi o‘quvchilarning o‘qish ko‘nikmalarini aniqlaydi."
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish jarayonida differensial yondashishda topshiriqlar qay tarzda beriladi?",
+    "correct": "1-guruh uchun “Alifbe” va qo‘shimcha topshiriqlar, 2-guruh uchun alifbedagi matnlar, jadvallar, 3-guruh uchun xam alifbe materiallardan foydalaniladi.",
+    "wrong": [
+      "Uchalla guruh uchun asosiy o‘quv materiali “Alifbe” darsligi hisoblanadi.",
+      "1-guruh uchun “Alifbe” ning xam materiali, 2-guruh uchun alifbedagi matn, 3-guruh uchun alifbedagi so‘zlar ustunchasi.",
+      "1-guruh “Alifbe” va qo‘shimcha topshiriqlar, tarqatma materiallar, 2-guruh uchun alifbe materiali, 3-guruh uchun koolektiv tayyorgarligidan so‘ng yaxshi o‘zlashtiradigan o‘quvchilardan so‘ng alifbe materialini o‘qitish."
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish davrida imlo ustida ishlashning ongli bo‘lishi quyidagi metodik ishlarga bog‘liq:",
+    "correct": "Bo‘g‘in – tovush, tovush- harf tahliliga va tahlil qilingan bo‘g‘in yoki so‘zni sintez qilishga, so‘z tuzish va tuzilgan so‘zni bo‘g‘inlab o‘qish va yozish, yozganlarini namunaga qarab tekshirish.",
+    "wrong": [
+      "Bo‘g‘in – tovush, tovush – harf tahlili.",
+      "So‘zlarni to‘g‘ri talaffuz qilish, ularni tovush va harf tomondan analiz qilish.",
+      "Tahlil qilingan so‘zning ma’nosini izohlash."
+    ]
+  },
+  {
+    "q": "Savod o‘rganish davrida qanday yozuvlardan foydalaniladi.",
+    "correct": "Namuna asosidagi yozuvdan",
+    "wrong": [
+      "Harfi, bo‘g‘in, so‘z va gap diktantdan",
+      "Ko‘chirib yozuv, diktant va ijodiy yozuvdan.",
+      "Izohli va saylanma diktandan."
+    ]
+  },
+  {
+    "q": "“Alifbe” darsligi qanday ilmiy-pedogogik tamoyillar asosida tuziladi?",
+    "correct": "Bolalar hayoti bilan bog‘liq va saviyasiga mos kichik gaplardan tuzilgan matn, harflarni joylashtirishda tez ishlatilishi. Alifbe xajmi savod urgatishga ajratilgan vaqtga mos bo‘lishi, badiiy didni o‘stirish va tarbiyalash tamoyili. Xajmi, qog‘ozi, barcha tasvirlari, shakl va mazmun birligi. Soddadan murakkabga tamoyili.",
+    "wrong": [
+      "Tashqi tomondan o‘quvchini o‘ziga jalb qila oladigan, rasmlarga boy, o‘quvchilarni badiiy va estetik didni o‘stira oladigan, ilmiy bo‘lishi lozim.",
+      "O‘quvchining yoshi va psixologik hususiyatlari mos bo‘lishi, foydalanishda qulay, osondan qiyinga tamoyili asosida yaratilishi lozim.",
+      "Bolaga borliq haqida to‘la bilim berishi, osondan murakkabga tamoyili asosida yaratilishi, rasmlarga boy bo‘lishi talab etiladi."
+    ]
+  },
+  {
+    "q": "O‘qish va yozuv malakasi...",
+    "correct": "Nutqqa oid malaka.",
+    "wrong": [
+      "Tilga oid malaka",
+      "Til va nutqqa oid malaka.",
+      "Ichki va tashqi nutqqa oid malaka"
+    ]
+  },
+  {
+    "q": "Fonematik eshitish qobiliyatini o‘stirish deganda nimani tushunasiz?",
+    "correct": "So‘zlarni to‘g‘ri, aniq tallafuz qilish, tallaffuzda ayrim tovushlarni farqlash. Bo‘g‘indan tovushni ajrata olishni.",
+    "wrong": [
+      "So‘zlovchining nutqini tushuna olishni",
+      "So‘zlovchining nutqini tushunib, uni ifodali qaytara bilishni.",
+      "Turli mashqlar yordamida so‘zlovchining nutqini anglashlari va qayta ifodalay bilishlarini."
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish jarayonida o‘quvchini o‘qishga o‘rgatishning kaliti nimada deb hisoblaymiz?",
+    "correct": "O‘qishni muntazam mashq qilish.",
+    "wrong": [
+      "Idrokni, xotirani, taffakurni, nutqni o‘stirish.",
+      "Tez va aniq idrok qilish, diqqatdagi barqarorlik, uzoq esda saqlash, xotiraning tayyorligi, tafakkurning puxtaligi nutqning boyligi.",
+      "Turli mashqlar yordamida so‘zlovchining nutqini anglashlari va qayta ifodalay bilishlarini."
+    ]
+  },
+  {
+    "q": "4-sinf o‘quvchilarining o‘qish malakasi qaysi bosqichga to‘g‘ri keladi?",
+    "correct": "Sidirg‘a o‘qish bosqichiga",
+    "wrong": [
+      "Bo‘g‘inlab o‘qish bosqichiga.",
+      "Bo‘g‘inlab sidirg‘a o‘qish bosqichiga.",
+      "Harflarni qo‘shgan holda bo‘g‘inlab o‘qish bosqichiga."
+    ]
+  },
+  {
+    "q": "To‘g‘ri o‘qishga berilgan qaysi ta’rifni mukammal deb bilasiz?",
+    "correct": "Materialning tovush tomonidan xatosiz va bir tekisda ravon nusxa ko‘chirish to‘g‘ri o‘qish deyiladi.",
+    "wrong": [
+      "So‘zdagi tovushni, bo‘g‘inni tushirib qoldirmay yoki ortiqcha tovush qo‘shmay o‘qish to‘g‘ri o‘qish deyiladi.",
+      "Xato qilmasdan, yanglishmasdan o‘qish to‘g‘ri o‘qish deyiladi.",
+      "Adabiy talaffuz normalariga rioya qilgan holda o‘qish to‘g‘ri o‘qish deyiladi."
+    ]
+  },
+  {
+    "q": "STO‘ darslarining bosqichlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "correct": "Tayyorgarlik 1-bosqich, boshlang‘ich; 2-bosqich asosiy; 3-bosqich.",
+    "wrong": [
+      "Kirish suhbati: 1-bosqich asarni o‘qib berish; 2-bosqich yakunlovchi suhbat; 3-bosqich;",
+      "O‘qituvchi o‘qib beradi 1-bosqich, magnitafondan eshittiradi; 2-bosqich, so‘zlab beradi; 3-bosqich.",
+      "Asar rasmlarini tomosha qilish 1-bosqich, asar muallifi bilan tanishish 2-bosqich, asar muxarriri bilan tanishish 3-bosqich."
+    ]
+  },
+  {
+    "q": "Qarama-qarshi qo‘yish va qiyoslashni qanday mavzularda qo‘llash mumkin emas?",
+    "correct": "Yozma ishlarni o‘tkazishda",
+    "wrong": [
+      "Unli va undosh harflar, jarangli va jarangsiz undoshlar",
+      "Ot va sifat, ravish va fe’l",
+      "Ega va undalma, hol va to‘ldiruvchi"
+    ]
+  },
+  {
+    "q": "Ifodali o‘qishning metodik shartlari qaysi javobda ifoda etilgan?",
+    "correct": "Nafasni to‘g‘ri olish va to‘g‘ri sarflash, tovushlarni to‘g‘ri talaffuz qilish va burro gapirish, adabiy talaffuz normalariga rioya qilish.",
+    "wrong": [
+      "Asarning jozibasini saqlab emostional o‘qish, yozuvchining niyatiga mos ravishda o‘qish.",
+      "Asar mazmuni va kahramonlarining xatti-harakatini tahlil qilish: pauzaning o‘rnini, urg‘uning tempini belgilash.",
+      "O‘qishni mashq qilish, ichda o‘qish."
+    ]
+  },
+  {
+    "q": "Yozuv darslarida o‘quvchilar egallashi lozim bo‘lgan malakalar izchil berilgan qatorni belgilang.",
+    "correct": "Partada to‘g‘ri o‘tirish, ruchkani 3 barmok orasida ushlash, daftarni parta ustida 650 qiyalikda tutish, alifbodagi kichik va katta harflarni grafik jihatdan to‘gri shakllantirish va ulash, so‘z va 2-3 so‘zli gap yozish, ko‘chirib yozish, diktovka bilan yozish, ijodiy yozish.",
+    "wrong": [
+      "Partada to‘g‘ri o‘tirish, daftarni to‘g‘ri qo‘yish, ruchkani to‘g‘ri ushlash, yozuv yo‘li ichida yozish.",
+      "Alifbodagi barcha harflarning bosh va kichik shaklini to‘g‘ri ulab yozish, 2-3 so‘zli gaplarni o‘qituvchi yordamida yozish, ko‘chirib yozish, diktovka bilan yozish.",
+      "Partada to‘g‘ri o‘tirish, erkin rasm chiza olish, kichik va katta harflarni yoza olish, so‘zlarni to‘g‘ri yoza olish"
+    ]
+  },
+  {
+    "q": "Yozuv malakasi qanday malaka va u qaysi malakalar bilan bog‘liq.",
+    "correct": "Yozuv malakasi grafik malaka tovush va harfning to‘g‘ri nisbatini, belgilash, grafik va orfografik qoidalarga rioya qilish kabi yozuvning ongligini talab etadi, o‘qish malakasi bilan bog‘liq.",
+    "wrong": [
+      "Yozuv malakasi o‘qish va fikrlashga bog‘liq malaka.",
+      "Yozuv nutqqa oid malaka, tafakkur qila olish, imlo xatolarisiz yoza olish bilan bog‘lik.",
+      "Yozuv malakasi qo‘l-harakati, qo‘rish va eshitish sezgisiga oid malaka bo‘lib, u orfografik malaka bilan uzviy bog‘liq."
+    ]
+  },
+  {
+    "q": "O‘qish va yozuv darslariga qo‘yiladigan talablar:",
+    "correct": "Umumdidaktik talablar, metodik talablar.",
+    "wrong": [
+      "Ta’limiy talablar, tarbiyaviy talablar.",
+      "Darsning o‘quvchilarning imkoniyati, bilim va ko‘nikma darajasini fikrlash faoliyatini hisobga olishga oid talablar.",
+      "Ko‘rgazmalilikka o‘rgatish."
+    ]
+  },
+  {
+    "q": "O‘qish va yozuv darslariga qo‘yiladigan umumdidaktik talablar:",
+    "correct": "Dars tarbiyalovchi xarakterda bo‘lsin, ta’limiy maqsadni amalga oshirsin, izchil va istiqboli, samarali xilma-xil metod va usullardan tanlansin, dars materiali ilmiy va muvofiq o‘quvchilarning saviyasi hisobga olinsin.",
+    "wrong": [
+      "Nutq ifodali, obrazli, aniq mantiqiy to‘g‘ri: yozuv mazmunli va savodli bo‘lsin, tilga sezgirlikni tarbiyalash.",
+      "Aqliy mehantga o‘rgatuvchi usullardan foydalanilsin.",
+      "O‘rganiladigan mavzularning ilmiyligiga, izchilligiga va o‘quvchilar talabi hisobga olinsin."
+    ]
+  },
+  {
+    "q": "O‘qish va yozuv darslariga qo‘yiladigan maxsus metodik talabalar:",
+    "correct": "Nutq ifodali, obrazli, aniq, mantiqiy to‘g‘ri, yozuv mazmunli va savodli bo‘lishi tilga sezgirlikni tarbiyalash.",
+    "wrong": [
+      "Dars tarbiyalovchi xarakterda bo‘lsin, ta’limiy maqsadni amalga oshirsin, izchil va istiqbolli, samarali, xilma-xil metod va usullardan tanlash, dars materiali ilmiy va muvofiq, o‘quvchilarning saviyasi hisobga olinsin.",
+      "Aqliy mehantga o‘rgatuvchi usullardan foydalanilsin.",
+      "Darslar vaqtidan unumli foydalanilgan holda yuqori saviyada o‘tilishini ta’minlaydigan vositalardan foydalanish hisobga olinsin"
+    ]
+  },
+  {
+    "q": "Burro talaffuz mashqlari.",
+    "correct": "Baland talaffuzni, talaffuz tempini, nuqsonli tallafuz qilinadigan undosh tovushli so‘zlarning talaffuzini, murakkab tovush birikmalarining to‘g‘ri talaffuzini mashq qilish.",
+    "wrong": [
+      "Tovushni yakka holda aniq, burro talaffuz qilish va so‘z tarkibida adabiy-orfoepik tallafuz qilish.",
+      "Nutqni gapga, gapni so‘zga, so‘zni bo‘g‘in, bo‘g‘inni tovushga ajratish va tovushni aniq talaffuz qilish.",
+      "Tovushdan bo‘g‘in, bo‘g‘indan so‘z, so‘zdan gap hosil kilish"
+    ]
+  },
+  {
+    "q": "Sintez mashq turlari:",
+    "correct": "O‘rganilgan tovush-harfdan kesma harf va bo‘g‘inlar asosida bo‘g‘in, so‘z, gap, tuzish va o‘qishni mashk kilish.",
+    "wrong": [
+      "Nutq bo‘lagidan kerakli til birligini ajratish va uning hususiyatlarini aniqlash.",
+      "Nutqni bo‘laklarga bo‘lish.",
+      "Matndan gapni, gapdan so‘zni, bo‘g‘in va tovushni ajratish, tovushning xususiyatlarini o‘rganish"
+    ]
+  },
+  {
+    "q": "Analiz mashq turlari:",
+    "correct": "Nutqni bo‘laklarga bo‘lish.",
+    "wrong": [
+      "Nutq bo‘lagidan kerakli til birligini ajratish.",
+      "O‘rgatilgan tovush-harflardan kesma harf va bo‘g‘inlar asosida bo‘g‘in, so‘z, gap tuzish va o‘qishda ularning tarkibini o‘zgartirish va o‘qishni mashq qilish.",
+      "Nutqdan gaplarni, gaplardan so‘zlarni ajratish."
+    ]
+  },
+  {
+    "q": "1-sinf o‘quvchilarining o‘qish malakasi qaysi bosqichga to‘g‘ri keladi?",
+    "correct": "Bo‘g‘inlab o‘qish bosqichiga.",
+    "wrong": [
+      "Harflarni qo‘shgan holda bo‘g‘inlab o‘qish bosqichiga.",
+      "Bo‘g‘inlab sidirg‘a o‘qish bosqichiga.",
+      "Sidirg‘a o‘qish bosqichiga."
+    ]
+  },
+  {
+    "q": "3-sinf o‘quvchilarining o‘qish malakasi qaysi bosqichga to‘g‘ri keladi?",
+    "correct": "Sidirg‘a o‘qish bosqichiga",
+    "wrong": [
+      "Harflarni qo‘shgan holda bo‘g‘inlab o‘qish bosqichiga.",
+      "Bo‘g‘inlab o‘qish bosqichiga.",
+      "Bo‘g‘inlab sidirg‘a o‘qish bosqichiga."
+    ]
+  },
+  {
+    "q": "2-sinf o‘quvchilarining o‘qish malakasi qaysi bosqichga to‘g‘ri keladi?",
+    "correct": "Bo‘g‘inlab sidirg‘a o‘qish bosqichiga.",
+    "wrong": [
+      "Harflarni qo‘shgan holda bo‘g‘inlab o‘qish bosqichiga.",
+      "Bo‘g‘inlab o‘qish bosqichiga.",
+      "Sidirg‘a o‘qish bosqichiga"
+    ]
+  },
+  {
+    "q": "To‘g‘ri o‘qishga berilgan qaysi ta’rifni noto‘g‘ri deb bilasiz?",
+    "correct": "Adabiy talaffuz normalariga rioya qilgan holda o‘qish to‘g‘ri o‘qish deyiladi.",
+    "wrong": [
+      "Materialning tovush tomonidan xatosiz va bir tekisda ravon nusxa ko‘chirish to‘g‘ri o‘qish deyiladi.",
+      "So‘zdagi tovushni, bo‘g‘inni tushirib qoldirmay yoki ortiqcha tovush qo‘shmay o‘qish to‘g‘ri o‘qish deyiladi.",
+      "Xato qilmasdan, yanglishmasdan o‘qish to‘g‘ri o‘qish deyiladi."
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinf o‘qish darslarida qaysi o‘qish turlaridan foydalaniladi?",
+    "correct": "Ichda o‘qish, shivirlab o‘qish va ovoz chiqarib o‘qishdan",
+    "wrong": [
+      "Ichda o‘qish va shivirlab o‘qishdan",
+      "Shivirlab o‘qish va ovoz chiqarib o‘qishdan",
+      "Ichda o‘qishdan"
+    ]
+  },
+  {
+    "q": "To‘g‘ri  o‘qishga o‘rgatishda qo‘llaniladigan usul berilgan javobni belgilang.",
+    "correct": "So‘z ma’nolarini tushuntirish",
+    "wrong": [
+      "Manosi tushunarsiz so‘zlarni aniqlash.",
+      "Xatolarni to‘g‘rilashning to‘g‘ri sistemasini ishlab chiqish.",
+      "Matnni to‘g‘ri o‘qish uchun sharoit yaratish."
+    ]
+  },
+  {
+    "q": "Izohli o‘qish darslarining yangi asarni o‘rganishda mashg‘ulotlarning tipik turlari izchil berilgan javobni belgilang.",
+    "correct": "Kirish suhbati: asar mazmunidan tushunishni qiyinlashtiradigan so‘zlar ustida ishlash: asarni o‘qish, asar tahlili, yakunlovchi suhbat.",
+    "wrong": [
+      "Asarni o‘qishga tayyorgarlik asar tahlili, lug‘at ustida ishlash, asarni o‘qish, umumlashtiruvchi suhbat.",
+      "Asarni o‘qish, kirish suhbati, asar tahlili, lug‘at ustida ishlash, yakunlovchi suhbat.",
+      "Asarni o‘qishga tayyorgarlik: asarda tasvirlangan voqealari haqida tasavvur qilishlari uchun uni hayot bilan bog‘lash, yozuvchi haqida malumot berish asarni emostional idrok etishga tayyorlash, lug‘at ustida ishlash: asarni o‘qib berish: o‘quvchilarning dastlabki tasavvurlarini aniqlovchi suhbat."
+    ]
+  },
+  {
+    "q": "Psixolog-lingvistik nuqtai nazardan analitik-sintetik tovush metodida nimalarga ahamiyat beriladi.",
+    "correct": "Savod o‘rgatishda bolaning egallagan nutq malakasiga asoslanadi. Savod o‘rgatishning asosiga tovush, o‘qish birligi sifatida bo‘g‘in olinadi. Savod o‘rgatishda o‘quvchilarning fonematik eshitish qobiliyatlar, tovushlari to‘g‘ri talaffuz qilishlari, analiz sintetik mashqlarni asos qilib olinadi",
+    "wrong": [
+      "Tovush va harfni o‘rgatishning qulay tartibi, tovush va harfning mosligi va osonligi, ta’limning tarbiyaviy va o‘stiruvchan xarakteri hisobga olinadi.",
+      "Tovush va harflarning o‘xshashligi, harflarning yozishdagi oson qiyinligi hisobga olinadi.",
+      "Savod o‘rgatishda analitik-sintetik tovush metodi qo‘llanib, o‘qish birligi sifatida bo‘g‘in olinadi."
+    ]
+  },
+  {
+    "q": "Analitik-sintetik tovush metodi savod o‘rgatishga tashkiliy tomondan qanday yondoshadi.",
+    "correct": "Tashkiliy tomondan 2 davrga bo‘linadi, alifbegacha tayyorgarlik davri, alifbe davri, yozuvga va o‘qishga o‘rgatish parallel olib boriladi.",
+    "wrong": [
+      "Tashkiliy tomondan, 3 davrga bo‘linadi, oldin o‘qishga, so‘ng yozuvga o‘rgatiladi, oldin kichik, so‘ng bosh harfdan yozdiriladi. Savod o‘rgatish yakka tartibda olib boriladi.",
+      "Tashkiliy tomondan savod o‘rgatish yanvargacha davom etadi, 3 bosqichga harf-tovush o‘rganilmaydigan bosqich, unli tovush va harf o‘rganiladigan bosqich alifbo bosqichlariga bo‘linadi.",
+      "Alifbo davri o‘qish darslari va alifbo davri. (Savod) yozuv darslari. Savod o‘rgatish 2 davrga bo‘linadi."
+    ]
+  },
+  {
+    "q": "O‘rta asrlarda yashagan qaysi olimlar va fozil kishilar yoshlikda xattotlik san’atini egallab, kotiblikda ham nom chiqargan?",
+    "correct": "Hofiz Sheroziy, Munis Xorazmiy",
+    "wrong": [
+      "Muqimiy, Zavqiy",
+      "Furqat, A.O‘tar",
+      "Hamza, Behbudiy"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish mashqlarining sintetik turlari qaysilar?",
+    "correct": "O‘rganilgan tovush-harflar asosida bo‘g‘in tuzish va o‘qish, kesma bo‘g‘inlar asosida so‘z tuzi shva o‘qish.",
+    "wrong": [
+      "To‘g‘ri va burro talaffuz",
+      "So‘zni bo‘g‘inga va tovushga ajratish",
+      "Tovushlarning artikulyastiyasini egallash"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish jarayonida o‘quvchilar amaliy o‘zlashtiriladigan bilimlar sistemasi berilgan javobni belgilang.",
+    "correct": "Grammatika va imlodan ayrim materiallarni amaliy o‘zlashtiradilar. Gaplarni atoqli otlarni bosh harf bilan yozishni. So‘zlarning talaffuzi bilan yozilishini taqqoslash orqali ayrim harflar imlosini o‘zlashtiradilar.O‘quvchilar jarangli va jarangsiz undoshlar “asosdosh so‘zlar” mavzusini o‘zlashtirishga tayyorlanadi.",
+    "wrong": [
+      "So‘zlarni ajratib o‘zlashtiradi.",
+      "To‘g‘ri yozuvga o‘rgatuvchi imloviy bilimlarni amaliy o‘zlashtiradilar.",
+      "So‘zlarni ajratib, ko‘shib yozishni, chiziqcha bilan yozishni o‘zlashtiradi."
+    ]
+  },
+  {
+    "q": "Grafik (yozuv) malakalarini shakllanishi bosqichlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "correct": "Qisqa va uzun qiya chiziq, to‘g‘ri tayoqchalarni chizish, chamalashga o‘rgatish, harf elementlarini yozish, bosh va kichik harflarini yozish, harf birikmalarini, bo‘g‘in, so‘z yozish.",
+    "wrong": [
+      "Alifbodagi barcha harflarni to‘g‘ri yozish tahlil qilishga 3-4 ta gapni mustaqil yoza olish.",
+      "Alfavitdagi unli harflarni, undosh harflarni, bo‘g‘in, so‘z yozish.",
+      "Partada to‘g‘ri o‘tirish, daftarni partada 650 qiyalikda qo‘yish. Ruchkani uch (3) barmoq orasida ushlash, yozuvni mashq qilish."
+    ]
+  },
+  {
+    "q": "Yozuv darsida o‘quvchilar egallaydigan amaliy imloviy bilimlar majmuiy ko‘rsatilgan javobni belgilang.",
+    "correct": "Talaffuzi yozilishidan farq qilmaydigan so‘zlarni to‘g‘ri yozishni, gapda so‘zlarni alohida yozishni, bo‘g‘in ko‘chirishni bosh harf bilan kishilarning, shahar, ko‘cha, hayvonlarning nomlarini yozishni.",
+    "wrong": [
+      "Qo‘shma so‘z, sodda so‘z, juft so‘zlarning yozilishini, bo‘g‘in ko‘chirilishi, bosh harflar imlosini.",
+      "Jarangli va jarangsiz undoshli so‘zlarni to‘g‘ri yozishni, alohida va chiziqcha bilan yoziladigan so‘zlarni, bo‘g‘inga bo‘lib va bo‘g‘in ko‘chirish qoidasiga ko‘ra yoziladigan so‘zlarni, bosh harflar imlosi.",
+      "Alifbedagi o‘rganilgan va bo‘g‘in tovush tomonidan tahlil qilingan so‘zlarni to‘g‘ri yozish."
+    ]
+  },
+  {
+    "q": "Savod o‘rganish jarayoni yozuv darslarida o‘tkaziladigan diktant turlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "correct": "Ta’limiy diktant: izohli diktant, rasm diktant, yoddan yozuv diktant, saylanma diktant.",
+    "wrong": [
+      "Ta’limiy diktant va tekshirish diktanti.",
+      "Harfiy diktant, ta’limiy diktant.",
+      "Tekshirish diktanti, harfiy diktant, bo‘g‘in diktanti."
+    ]
+  },
+  {
+    "q": "O‘zbek tilida nechta undosh tovush bor va ular nechta harf bilan ifodalanadi?",
+    "correct": "24 ta tovush, 23 ta harf",
+    "wrong": [
+      "23 ta harf, 23 ta tovush",
+      "29 ta harf, 24 ta tovush",
+      "25 ta tovush , 25 ta harf"
+    ]
+  },
+  {
+    "q": "«Tovushlar va harflar» mavzusini o‘rganishda qaysi metoddan foydalaniladi?",
+    "correct": "Tahlil-tarkib metodidan",
+    "wrong": [
+      "Mustaqil ish metodidan.",
+      "Til faktlarini kuzatish.",
+      "Amaliy ish metodidan."
+    ]
+  },
+  {
+    "q": "«Jarangli va jarangsiz undosh tovushlar» mavzusini o‘rganishda qaysi metoddan foydalaniladi?",
+    "correct": "Taqqoslash metodidan.",
+    "wrong": [
+      "Til faktlarini kuzatish.",
+      "Amaliy ish metodidan.",
+      "Tahlil-tarkib metodidan"
+    ]
+  },
+  {
+    "q": "«Otlarning kelishik qo‘shimchalarini olib o‘zgarishi» mavzusini o‘rganishda qaysi metoddan foydalaniladi?",
+    "correct": "Til faktlarini kuzatish.",
+    "wrong": [
+      "Amaliy ish metodidan.",
+      "Tahlil-tarkib metodidan",
+      "Mustaqil ish metodidan"
+    ]
+  },
+  {
+    "q": "«Otlarning egalik qo‘shimchalarini olib o‘zgarishi» mavzusini o‘rganishda qaysi metoddan foydalaniladi?",
+    "correct": "Muammoli o‘qitish metodi",
+    "wrong": [
+      "Mustaqil ish metodidan",
+      "Til faktlarini kuzatish.",
+      "Amaliy ish metodidan."
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinfda ona tilini o‘rgatishning yetakchi prinsipini toping.",
+    "correct": "Tilning barcha tomonlarini o‘zaro bog‘liq holda o‘rganish – yetakchi prinsip.",
+    "wrong": [
+      "Fonetika bilan grafikani bog‘lik holda o‘rgatish – yetakchi prinsip.",
+      "Grafika bilan orfografiyani bog‘liq holda o‘rganish – yetakchi prinsip.",
+      "Morfologiya bilan sintaksisni bog‘liq holda o‘rganish – yetakchi prinsip."
+    ]
+  },
+  {
+    "q": "Boshlang‘ich ta’limda sinfda o‘qish uchun qaysi janrdagi asarlar tanlangan?",
+    "correct": "ertak, hikoya, lirik va epik she’rlar, maqol, masal, topishmoq, ilmiy-ommabop matnlar.",
+    "wrong": [
+      "tragediya, qissa, lirik va epik she’rlar",
+      "esse, lirik va epik she’rlar, feleton.",
+      "lirik va epik she’rlar tragediya."
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda o‘qishga tayyorgarlik bosqichi qanday masalalarni o‘z ichiga oladi?",
+    "correct": "yozuvchilar haqida ma’lumot berish, o‘quvchilarni asarda tasvirlanadigan voqea-hodisalarni idrok qilishga o‘rgatishni, asar pafosini his etish, notanish va ko‘p ma’noli so‘zlar, murakkabrok tarzdagi obrazli ifodalarni izohlashga o‘rgatishni.",
+    "wrong": [
+      "to‘g‘ri va ongli o‘qishga o‘rgatishni.",
+      "o‘quvchilarni asarning qurilishi, g‘oyasi bilan tanishtirish",
+      "o‘quvchilarni badiiy asarni tez, qiynalmay o‘qiy olishni, o‘qiganlarini savollar asosida gapira olishni."
+    ]
+  },
+  {
+    "q": "Uzluksiz ta’limning boshqa bosqichlaridan farqli o‘laroq, boshlang‘ich sinflarning o‘qish darslarida ta’limning didaktik maqsadini nima tashkil qiladi?",
+    "correct": "o‘quvchilarning o‘qish malakalarini shakllantirish, asar matni ustida ishlash",
+    "wrong": [
+      "asar matni ustida ishlash",
+      "darslikda berilgan savollarga javob topish",
+      "mustaqil topshiriqlarni bajarish"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinf o‘qish darslarida qo‘llaniladigan metodlar qaysi javoblarda qayd etilgan?",
+    "correct": "izohli o‘qish, ifodali o‘qish, badiiy o‘qish, izlanish metodi, reproduktiv metod",
+    "wrong": [
+      "izlanish metodi, reproduktiv metod",
+      "hisoblash metodi, sidirg‘a o‘qish",
+      "matematik metod, sintaktik metod"
+    ]
+  },
+  {
+    "q": "Ertakni o‘rganish darslarining qurilishiga oid hususiyat qaysi javobda noto‘gri izohlangan?",
+    "correct": "allegoriyani ochish",
+    "wrong": [
+      "ma’lum vazifa bilan ertakni qayta o‘qish (ijodiy va mustaqil ishlar)",
+      "ertakni o‘quvchilar qay darajada idrok etganliklarini aniqlash maqsadida qisqacha suhbat o‘tkazish",
+      "ertakni aytib berishga tayyorlanish (ichda o‘qish)"
+    ]
+  },
+  {
+    "q": "Masal janridagi matnlarni o‘rganishda asosiy bosqich nima?",
+    "correct": "allegoriyani ochish",
+    "wrong": [
+      "masal muallifi haqida o‘qituvchi hikoyasi",
+      "tayyorgarlik ishlari",
+      "masal muallifi haqida o‘qituvchi hikoyasi,tayyorgarlik ishlari"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda o‘rganiladigan ko‘pgina she’rlarni tahlil qilib, ifodali o‘qish mashq qilingach, o‘quvchilarga qanday vazifa topshiriladi?",
+    "correct": "She’rni ifodali yod aytib berish",
+    "wrong": [
+      "She’r qahramonlari haqida badiiy mulohaza yuritish",
+      "She’rning mazmunini badiiy ravishda so‘zlab berish",
+      "Ma’nosi notanish so‘zlar ustida ishlash"
+    ]
+  },
+  {
+    "q": "«O‘quvchilarning davlat andozasi darajasida o‘zlashtirishlariga erishish, umuminsoniy axloq qoidalarini muttasil targ‘ibot qila borish ta’lim jarayonining bosh maqsadi hisoblanadi». Bu fikr qaysi manbadan olingan?",
+    "correct": "Umumta’lim maktablarida ona tili kontseptsiyasidan.",
+    "wrong": [
+      "Ta’lim kontseptsiyasidan.",
+      "O‘zbek maktablarining boshlang‘ich sinflariga mo‘ljallangan dasturlaridan.",
+      "«Ta’lim to‘g‘risida»gi Qonundan."
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinf ona tili dasturining tuzilishi to‘g‘ri berilgan qatorni aniqlang.",
+    "correct": "Uqtirish xati, «Savod o‘rgatish va nutq o‘stirish», «O‘qish va nutq o‘stirish», «Grammatika, imlo va nutq o‘stirish»",
+    "wrong": [
+      "Uqtirish xati, «O‘qish va nutq o‘stirish», «O‘qish ko‘nikmalari», «Matn ustida ishlash»",
+      "Uqtirish xati, «Grammatika, imlo va nutq o‘stirish», «Tovushlar va harflar», «So‘z», «Gap», «Bog‘lanishli nutq»",
+      "Uqtirish xati, « O‘qish, STO‘va nutq o‘stirish», «Grammatika va nutq o‘stirish», «Husnixat va nutq o‘stirish»"
+    ]
+  },
+  {
+    "q": "Morfologik mashqlar o‘tkazish orqali qanday nazariy bilimlar mustahkamlanadi?",
+    "correct": "So‘zlarning morfologik tarkibi va so‘z turkumlariga oid bilimlar",
+    "wrong": [
+      "Gapning ma’no turlari, so‘z birikmalari haqida nazariy bilimlar",
+      "So‘z tarkibiga oid bilimlar",
+      "So‘zlarning o‘z va ko‘chma ma’nosi mustahkamlanadi"
+    ]
+  },
+  {
+    "q": "Dasturning “Grammatika, imlo va nutq o‘stirish” bo‘limi qaysi qismlarni o‘z ichiga oladi?",
+    "correct": "“Tovushlar va harflar”, “So‘z”, “Gap”, “Bog‘lanishli nutq”",
+    "wrong": [
+      "”Tovushlar va harflar”, “STO‘”, “Gap”, “Bog‘lanishli nutq”",
+      "”Tovushlar va harflar”, “Sinfda va STO‘”, “Gap”, “Bog‘lanishli nutq”",
+      "Tovushlar va harflar”, “Savod o‘rgatish va nutq o‘stirish”, “Gap”, “Bog‘lanishli nutq”"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinf ona tili dasturi qaysi tamoyil asosida tuzilgan?",
+    "correct": "Bosqichli izchillik tamoyili",
+    "wrong": [
+      "Ketma-ketlik tamoyili",
+      "Soddadan murakkabga tamoyili",
+      "Bosqichli ketma-ketlik tamoyili"
+    ]
+  },
+  {
+    "q": "1-2-sinfda dasturga muvofiq ona tili darslarida qaysi mavzularni o‘rganishga katta o‘rin berilgan?",
+    "correct": "Fonetika grafikaga oid bilimlar",
+    "wrong": [
+      "So‘zning morfemin tarkibiga oid bilimlar",
+      "Gapni o‘rganishga oid bilimlar",
+      "So‘z turkumlarini o‘rganishga oid bilimlar"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda morfologiyadan qanday tushunchalarni shakllantirish ustida ish olib boriladi?",
+    "correct": "ot, sifat, son, fe’l, olmosh",
+    "wrong": [
+      "gap, ot, sifat, son, fe’l",
+      "gap, ega, kesim, so‘z turkumlari",
+      "so‘z birikmalar va so‘z turkumlari"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda morfemikadan qanday tushunchalarni shakllantirish ustida ish olib boriladi?",
+    "correct": "asos, qo‘shimcha, asosdosh so‘zlar",
+    "wrong": [
+      "asos, so‘z yasovchi qo‘shimchalar, so‘z o‘zgartuvchi qo‘shimchalar",
+      "asos, so‘z yasovchi qo‘shimchalar, asosdosh so‘zlar",
+      "asos, so‘z o‘zgartuvchi qo‘shimchalar asosdosh so‘zlar"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda sintaksisdan qanday tushunchalarni shakllantirish ustida ish olib boriladi?",
+    "correct": "gap, ega, kesim, ikkinchi darajali bo‘lak, uyushiq bo‘lak, undalma",
+    "wrong": [
+      "gapning bosh va ikkinchi darajali bo‘laklari, uyushiq bo‘laklar",
+      "gapning bosh va ikkinchi darajali bo‘laklari, uyushiq bo‘laklar, undalma",
+      "gapning bosh va ikkinchi darajali bo‘laklari, undalma"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda tilga oid tushunchalarni shakllantirish jarayoni shartli ravishda necha bosqichga bo‘linadi?",
+    "correct": "to‘rt bosqich",
+    "wrong": [
+      "uch bosqich",
+      "ikki bosqich",
+      "besh bosqich"
+    ]
+  },
+  {
+    "q": "O‘quvchilar bilimini shakllantirish xarakteriga ko‘ra grammatik va so‘z yasalishiga oid maqlar necha guruhga bo‘linadi?",
+    "correct": "ikki: morfologik va sintaktik mashqlar",
+    "wrong": [
+      "uch: morfologik, leksik-morfologi, analitik mashqlar",
+      "ikki: analitik va sintetik mashqlar",
+      "guruhlarga bo‘linmaydi"
+    ]
+  },
+  {
+    "q": "O‘quvchilar faoliyatining, ya’ni ular bajaradigan aqliy omillar xarakteriga ko‘ra grammatik va so‘z yasalishiga oid maqlar necha guruhga bo‘linadi?",
+    "correct": "besh: analitik, sintetik, taqqoslashga, guruhlashga, umulashtirishga oid mashqlar",
+    "wrong": [
+      "uch: analitik, sintetik, taqqoslashga oid mashqlar",
+      "ikki: guruhlashga, umulashtirishga oid mashqlar",
+      "to‘rt: morfologik, leksik-morfologi, analitik, umulashtirishga oid mashqlar"
+    ]
+  },
+  {
+    "q": "Mоrfоlоgik mashqlar o‘tkazish orqali qanday nazariy bilimlar mustahkamlanadi?",
+    "correct": "So‘zlarning mоrfоlоgik tarkibi va so‘z turkumlariga оid bilimlar",
+    "wrong": [
+      "Gapning ma’nо turlari, so‘z birikmalari haqida nazariy bilimlar",
+      "So‘z tarkibiga оid bilimlar",
+      "So‘zlarning o‘z va ko‘chma ma’nоsi mustahkamlanadi"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflar ona tili dasturiga muvofiq so‘zning morfemik tarkibi nechanchi sinfda o‘rganiladi?",
+    "correct": "3-sinfda",
+    "wrong": [
+      "4-sinfda",
+      "2-sinfda",
+      "1-sinfda"
+    ]
+  },
+  {
+    "q": "So‘z tarkibining o‘rganishni birinchi bosqich vazifasi nimadan iborat?",
+    "correct": "o‘quvchilarni bir xil asosli so‘zlarni ma’no va tuzilishiga ko‘ra bog‘lanishini tushunishga tayyorlash",
+    "wrong": [
+      "bir xil asosli so‘zlarning xususiyatlari va morfemalarning mohiyati bilan tanishtirishdan iborat",
+      "asos, so‘z yasovchi qo‘shimcha va shakl yasovchi qo‘shimcha tushunchalarini shakllantirish",
+      "so‘z turkumlarini o‘rganish bilan bog‘liq holda so‘zning tarkibi ustida ishlash"
+    ]
+  },
+  {
+    "q": "So‘z tarkibining o‘rganishni ikkinchi bosqich vazifasi nimadan iborat?",
+    "correct": "asos, so‘z yasovchi va shakl yasovchi qo‘shimchalar bilan tanishtirish “asosdosh so‘zlar” tushunchasini shakllantirish",
+    "wrong": [
+      "o‘quvchilarni bir xil asosli so‘zlarni ma’no va tuzilishiga ko‘ra bog‘lanishini tushunishga tayyorlash",
+      "so‘z turkumlarini o‘rganish bilan bog‘liq holda so‘zning tarkibi ustida ishlash",
+      "asos, so‘z yasovchi qo‘shimcha va shakl yasovchi qo‘shimcha tushunchalarini shakllantirish"
+    ]
+  },
+  {
+    "q": "So‘z tarkibining o‘rganishni uchinchi bosqich vazifasi nimadan iborat?",
+    "correct": "so‘zning leksik ma’nosi bilan morfemik tarkibi o‘rtasidagi bog‘lanish haqidagi tasavvurlarini o‘stirish, nutqda so‘z yasovchi qo‘shimchasi bor so‘zlarni ongli ishlatish ko‘nikmasini oshirish",
+    "wrong": [
+      "o‘quvchilarni bir xil asosli so‘zlarni ma’no va tuzilishiga ko‘ra bog‘lanishini tushunishga tayyorlash",
+      "so‘z turkumlarini o‘rganish bilan bog‘liq holda so‘zning tarkibi ustida ishlash",
+      "asos, so‘z yasovchi va shakl yasovchi qo‘shimchalar bilan tanishtirish “asosdosh so‘zlar” tushunchasini shakllantirish"
+    ]
+  },
+  {
+    "q": "So‘z tarkibining o‘rganishni to‘rtinchi bosqich vazifasi nimadan iborat?",
+    "correct": "so‘z turkumlarini o‘rganish bilan bog‘liq holda so‘zning tarkibi ustida ishlash",
+    "wrong": [
+      "o‘quvchilarni bir xil asosli so‘zlarni ma’no va tuzilishiga ko‘ra bog‘lanishini tushunishga tayyorlash",
+      "so‘zning leksik ma’nosi bilan morfemik tarkibi o‘rtasidagi bog‘lanish haqidagi tasavvurlarini o‘stirish,",
+      "asos, so‘z yasovchi va shakl yasovchi qo‘shimchalar bilan tanishtirish “asosdosh so‘zlar” tushunchasini shakllantirish"
+    ]
+  },
+  {
+    "q": "So‘zlarni leksik-grammatik turkumlarga ajratishda necha xil belgilarga asoslaniladi?",
+    "correct": "uch: leksik ma’nosi, morfologik va sintaktik",
+    "wrong": [
+      "ikki: morfologik va sintaktik",
+      "to‘rt: leksik ma’nosi, morfologik va sintaktik, semantik",
+      "belgilarga asoslanilmaydi"
+    ]
+  },
+  {
+    "q": "DTS mezonlari asosida ona tilidan o‘quvchilar egallagan bilim, ko‘nikma va malakalar qanday standart ko‘rsatkichlar asosida tekshiriladi?",
+    "correct": "O‘qish texnikasi (minut so‘z birliklari)va o‘zgalar fikrini anglash darajasi, fikrni yozma shaklda bayon etish darajasi",
+    "wrong": [
+      "O‘quvchining lisoniy tahlilini o‘zlashtirish darajasi",
+      "O‘qish texnikasi (minut so‘z birliklari) va o‘zgalar fikrini anglash darajasi",
+      "Fikrni yozma shaklda bayon etish darajasi"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinf ona tili darslarida fonetik tahlil vositasida o‘quvchilarda qanday malakalar takomillashadi?",
+    "correct": "Nutq tovushlari, ya’ni unli va undosh tovushlar, jarangli va jarangsiz undoshlar, bo‘g‘in, urg‘u haqidagi tushuncha va bilimlarini amaliyotda to‘g‘ri qo‘llash.",
+    "wrong": [
+      "Nutq tovushlarini farqlash, to‘g‘ri talaffuz me’yorlariniegallash.",
+      "So‘z yasalishi va So‘z tarkibini o‘zlashtirish.",
+      "Unli, undoshlarning talaffuzi va imlosini o‘zlashtirish."
+    ]
+  },
+  {
+    "q": "Alifbogacha bo‘lgan tayyorgarlik davrdagi o‘qish darslarining vazifalari qaysi javobda to‘g’ri ko‘rsatilgan?",
+    "correct": "Nutq,og’zaki va yozma nutq, gap, nutqning gaplardan tuzilishi, so‘z gaplarning so‘zlardan tuzilishi, bo‘g‘in, so‘zlarning bo‘g’inlarga bo‘linishi va tovush, tovushlarning turlari",
+    "wrong": [
+      "Tovush va harf haqida, harf elementlarini yozish, bo‘g‘in, so‘z tuzilishi, gap tuzilishi haqida ma’lumot",
+      "Nutq turlari og’zaki va yozma nutq, ichki va tashqi nutq bo‘g‘in, so‘z, gap, tovush, unli va undosh tovush haqida tushuncha hosil qilish",
+      "Bog’lanishli nutq, unli va undosh tovush turlari, bo‘g’in ko‘chirilishi, gapning maqsadga ko‘ra turlari, so‘zning tuzilishi haqida tushuncha xosil qilish"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatishning alifbo davri uchun dasturda necha soat ajratilgan?",
+    "correct": "120",
+    "wrong": [
+      "128",
+      "136",
+      "130"
+    ]
+  },
+  {
+    "q": "Grammatik mashq turlari berilgan javobni toping?",
+    "correct": "Morfologik, sintaktik",
+    "wrong": [
+      "Ta’limiy, didaktik",
+      "Metodik, amaliy",
+      "Amaliy, didaktik"
+    ]
+  },
+  {
+    "q": "Javoblarning qaysi birida mustaqil kitobxonlik faoliyatini shakllantirish bosqichlari to‘la ko‘rsatilgan?",
+    "correct": "Kitobxonlik faoliyatini shakllantirish 3 bosqichda: tayyorgarlik bosqichi, boshlangich bosqich, asosiy bosqich orqali amalga oshiriladi.",
+    "wrong": [
+      "Tayyorgarlik bosqichi o‘quv yilining birinchi yarmi savod o‘rgatish davriga to‘g‘ri keladi",
+      "Mustaqil kitobxonlik faoliyatini shakllintirish 5 bosqichda amalga oshiriladi",
+      "Mustaqil o‘qish malakalari shakllanib bosqichli amalga oshadi"
+    ]
+  },
+  {
+    "q": "Ovozli o‘qishning afzalliklari ko‘rsatilgan qatorni toping.",
+    "correct": "o‘qituvchi o‘quvchilarni o‘qish ko‘nikmalarini aniqlaydi, o‘quvchilar matn mazmunini tez anglaydilar, estetik zavqlanadi, ifodalilikka katta e’tibor beriladi",
+    "wrong": [
+      "o‘quvchilar matn mazmunini tez anglaydilar, estetik zavqlanadi, ifodalilikka katta e’tibor beriladi",
+      "estetik zavqlanadi, ifodalilikka katta e’tibor beriladi",
+      "o‘quvchilar matn mazmunini tez anglaydilar, asar matni ustida mustaqil ishlash ko‘nikmasi takomillashadi"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich ta’limda o‘qishning necha turidan foydalaniladi?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "1"
+    ]
+  },
+  {
+    "q": "Intonatsiyaga to‘g‘ri  ta’rif berilgan qatorni toping.",
+    "correct": "og‘zaki nutqning birgalikda harakat qiluvchi elementlari: urg‘u, nutq tempi va ritmi, pauza, ovozning past-balandligi yig‘indisi",
+    "wrong": [
+      "nutqning ohangdorligi",
+      "nutq jarayonida nafasni to‘g‘ri olish va to‘g‘ri taqsimlay olish",
+      "har bir tovushni to‘g‘ri talaffuz qilish va burro gapirish malakasi"
+    ]
+  },
+  {
+    "q": "Ifodali o‘qishga tayyorlanish shartli ravishda necha bosqichga bo‘linadi?",
+    "correct": "3",
+    "wrong": [
+      "2",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "q": "O‘qish malakalarini shakllantirish jarayoni bosqichlar to‘g‘ri ko‘rsatilgan qatorni toping.",
+    "correct": "uch: analitik, sintetik, avtomatlashgan",
+    "wrong": [
+      "ikki: analitik va sintetik",
+      "ikki: analitik va avtomatlashgan",
+      "bu jarayon bosqichlarga bo‘linmaydi"
+    ]
+  },
+  {
+    "q": "“O‘qilayotgan asar mazmunini o‘zlashtirishni, matn mazmunini ongli idrok etishni ta’minlaydigan o‘qish”. Ushbu ta’rif o‘qish sifatlarining qaysinisiga taalluqli?",
+    "correct": "tez o‘qish",
+    "wrong": [
+      "ongli o‘qish",
+      "ifodali o‘qish",
+      "to‘g‘ri o‘qish"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinf ona tili darslarida darsning qaysi turlaridan foydalaniladi?",
+    "correct": "Yangi materialni o‘rganish darsi, bilimni mustahkamlash darsi, umumlashtiruvchi-takrorlash darsi, tekshiruv darsi",
+    "wrong": [
+      "Nazorat darsi, takrorlash darsi, yangi bilim beruvchi dars",
+      "Nazorat darsi, mustahkamlash darsi",
+      "Nazariy va amaliy dars turi"
+    ]
+  },
+  {
+    "q": "“O‘quvchilar o‘qituvchi tavsiya etgan til dalillarini kuzatadi, tahlil qiladi va shu asosida xulosa va ta’riflar keltirib chiqaradi”. Ta’rif qaysi metod uchun berilgan?",
+    "correct": "induksiya",
+    "wrong": [
+      "deduksiya",
+      "analiz-sintez",
+      "suhbat"
+    ]
+  },
+  {
+    "q": "“O‘quvchi tayyor qoida – ta’rif bilan tanishadi va uning mohiyatini til dalillari asosida ochadi.” Ta’rif qaysi metod uchun berilgan?",
+    "correct": "deduksiya",
+    "wrong": [
+      "induksiya",
+      "suhbat",
+      "analiz-sintez"
+    ]
+  },
+  {
+    "q": "Tilimizda nechta jarangli undosh tovush bor?",
+    "correct": "14",
+    "wrong": [
+      "13",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "q": "“Jarangli va jarangsiz undosh tovushlar” mavzusi nechanchi sinfda o‘rgatiladi?",
+    "correct": "2-sinfda",
+    "wrong": [
+      "1-sinfda",
+      "3-sinfda",
+      "4-sinfda"
+    ]
+  },
+  {
+    "q": "Fоnеtik mashq turlarida qanday bilim va ko‘nikmalar mustahkamlanadi?",
+    "correct": "Bo‘g‘in va tоvushlarni eshitib va talaffuz qilib bir-biridan farqlashga, tоvushlarni alоhida va so‘z ichida talaffuz qilish ko‘nikmalari mustahkamlanadi",
+    "wrong": [
+      "O‘quvchining nutq madaniyatini, to‘g‘ri yozuv malakalarini o‘stiradi.",
+      "Оna tilining mоrfоlоgik qurilishini tushunibоlishlariga yordam bеradi.",
+      "Sintaktik tushunchalar"
+    ]
+  },
+  {
+    "q": "STO‘ning tayyorlov bosqichi boshlang‘ich sinfning qaysi davriga to‘g‘ri keladi?",
+    "correct": "1-sinfning 1-yarim yilligiga",
+    "wrong": [
+      "1-sinfning 2-yarim yilligiga",
+      "2- sinfning 1-yarim yilligiga",
+      "2-sinfning 2-yarim yilligiga"
+    ]
+  },
+  {
+    "q": "STO‘ning boshlang‘ich bosqichi boshlang‘ich sinfning qaysi davriga to‘g‘ri keladi?",
+    "correct": "1-sinfning 2-yarim yilligiga",
+    "wrong": [
+      "2- sinfning 1-yarim yilligiga",
+      "2-sinfning 2-yarim yilligiga",
+      "1-sinfning 1-yarim yilligiga"
+    ]
+  },
+  {
+    "q": "STO‘ning asosiy bosqichi boshlang‘ich sinfning qaysi davriga to‘g‘ri keladi?",
+    "correct": "2-4-sinflarga",
+    "wrong": [
+      "2-sinfga",
+      "3-sinfga",
+      "4-sinfga"
+    ]
+  },
+  {
+    "q": "STO‘ning tayyorlov bosqichidagi mashg‘ulotning vaqti to‘g‘ri ko‘rsatilgan qatorni toping?",
+    "correct": "haftada bir marta , darsning 17-20 daqiqasi ajratiladi",
+    "wrong": [
+      "Har hafta, 45 daqiqalik dars",
+      "2 haftada bir marta, 45 daqiqalik dars",
+      "3 haftada bir marta, 45 daqiqalik dars"
+    ]
+  },
+  {
+    "q": "STO‘ning boshlang‘ich bosqichi uchun ajratilgan vaqt to‘g‘ri ko‘rsatilgan qatorni toping?",
+    "correct": "haftada bir marta 45 daqiqalik dars",
+    "wrong": [
+      "2 haftada bir marta, 45",
+      "haftada bir marta , darsning 17-20",
+      "3 haftada bir marta, 45"
+    ]
+  },
+  {
+    "q": "STO‘ning asosiy bosqichi uchun ajratilgan vaqt to‘g‘ri ko‘rsatilgan qatorni toping?",
+    "correct": "2 haftada bir marta, 45",
+    "wrong": [
+      "haftada bir marta 45 daqiqalik dars",
+      "3 haftada bir marta, 45",
+      "haftada bir marta , darsning 17-20"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinf o‘qish darslarida ertak janrining qaysi turlariga oidlari berilgan?",
+    "correct": "maishiy, majoziy va sehrli ertaklar",
+    "wrong": [
+      "maishiy va sehrli ertaklar",
+      "majoziy va sehrli ertaklar",
+      "sehrli ertaklar"
+    ]
+  },
+  {
+    "q": "O‘qish turlari to‘gri ko‘rsatilgan qatorni toping.",
+    "correct": "Ovozli o‘qish, ichda o‘qish, shivirlab o‘qish",
+    "wrong": [
+      "Ifodali, ongli o‘qish",
+      "Tez, to‘g‘ri o‘qish",
+      "Avtomat o‘qish"
+    ]
+  },
+  {
+    "q": "“Ohang jihatdan ma’lum bir tartibga solingan, his-tuyg‘u ifodasi sifatida vujudga kelgan hayajonli ritmik nutq.” Ushbu ta’rif qaysi janr uchun berilgan?",
+    "correct": "she’r",
+    "wrong": [
+      "masal",
+      "ertak",
+      "maqol"
+    ]
+  },
+  {
+    "q": "Kichik  hajmli badiiy asar bo‘lib, unda kishi hayotidagi ma’lum bir voqea, hayotning muhim tomonlari umumlashtirib tasvirlanadi.",
+    "correct": "hikoya",
+    "wrong": [
+      "masal",
+      "ertak",
+      "doston"
+    ]
+  },
+  {
+    "q": "Ma’lum so‘zni, so‘z birikmasini yoki tovushni to‘g‘ri talaffuz qilishga, uni boshqa tovushlardan farqlashga o‘rgatadigan, xotirani mustahkamlaydigan va nutqni o‘stiradigan, o‘qish sur’atini oshiradigan janr?",
+    "correct": "tez aytish",
+    "wrong": [
+      "topishmoq",
+      "maqol",
+      "matal"
+    ]
+  },
+  {
+    "q": "Axloqiy, satirik va kesatiq mazmunini kinoyaviy obrazlarda aks ettirgan aksariyat kichik she’riy, ba’zan nasriy asar nima?",
+    "correct": "masal",
+    "wrong": [
+      "maqol",
+      "she’r",
+      "latifa"
+    ]
+  },
+  {
+    "q": "Turmush tajribalari zamirida tug‘ulgan va xalq donoligini ifodolagan qisqa, ko‘pincha she’riy shakldagi hikmatli so‘zlar, chuqur ma’noli iboralar aks ettirilgan janr nima?",
+    "correct": "maqol",
+    "wrong": [
+      "masal",
+      "she’r",
+      "latifa"
+    ]
+  },
+  {
+    "q": "Notanish matnni bir daqiqada o‘qish tezligi 25-30 so‘z bo‘lgan me’yor qaysi sinfga tegishli?",
+    "correct": "1-sinf",
+    "wrong": [
+      "2-sinf",
+      "3-sinf",
+      "4-sinf"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda badiiy asar ustida ishlash jarayonining qaysi bosqichi matnni yaxlit idrok etish asosida asarning aniq mazmuni va tasviriy ifoda vositalari bilan tanishtirishdan iborat?",
+    "correct": "birinchi bosqich",
+    "wrong": [
+      "Ikkinchi bosqich",
+      "Uchinchi bosqich",
+      "Analiz bosqichi"
+    ]
+  },
+  {
+    "q": "Badiiy asarni o‘qishga tayyorgarlik shakllari to‘g‘ri ko‘rsatilgan qatorni toping.",
+    "correct": "ekskursiya, film namoyish qilish, o‘qituvchi hikoyasi, mustaqil izlanishlar",
+    "wrong": [
+      "Ekskursiya, mustaqilizlanishlar",
+      "Mustaqil izlanishlar, film namoyish qilish",
+      "Badiiy asarni o‘qishga tayyorgarlik shakllari mavjud emas"
+    ]
+  },
+  {
+    "q": "Darsga qo‘yiladigan umumiy talablar to‘liq ko‘rsatilgan qatorni toping.",
+    "correct": "ta’limiy, tarbiyaviy, didaktik, psixologik va gigiyenik",
+    "wrong": [
+      "ta’limiy, tarbiyaviy, didaktik",
+      "ta’limiy, tarbiyaviy, va gigiyenik",
+      "ta’limiy, tarbiyaviy, gigiyenik"
+    ]
+  },
+  {
+    "q": "Tilimizda nechta jarangsiz undosh tovush bor?",
+    "correct": "10",
+    "wrong": [
+      "9",
+      "11",
+      "12"
+    ]
+  },
+  {
+    "q": "2-sinfda “Tovushlar va harflar” bo‘limi uchun dasturda necha soat ajratilgan?",
+    "correct": "56",
+    "wrong": [
+      "50",
+      "48",
+      "42"
+    ]
+  },
+  {
+    "q": "Shakl yasovchi qo‘shimchada so‘zyasovchi qo‘shimchadan farqlaydigan qanday vazifa yetakchi hisoblanadi?",
+    "correct": "grammatik",
+    "wrong": [
+      "leksik",
+      "morfologik",
+      "semantik"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatishning tayyorgarlik davrida o‘qish darslari uchun dasturga muvofiq necha soat ajratilgan?",
+    "correct": "8",
+    "wrong": [
+      "10",
+      "12",
+      "4"
+    ]
+  },
+  {
+    "q": "3-sinfda “So‘z tarkibi” mavzusi uchun dasturda necha soat ajratilgan?",
+    "correct": "22",
+    "wrong": [
+      "20",
+      "18",
+      "40"
+    ]
+  },
+  {
+    "q": "3-sinfda “So‘z turkumlari” mavzusi uchun dasturda necha soat ajratilgan?",
+    "correct": "64",
+    "wrong": [
+      "42",
+      "48",
+      "40"
+    ]
+  },
+  {
+    "q": "Metod yunoncha so‘zdan olingan bo‘lib qanday ma’nolarni anglatadi?",
+    "correct": "bilish va tadqiqot yo‘li, nazariya, ta’limot",
+    "wrong": [
+      "nazariya, ta’limot",
+      "Bilish va tadqiqot yo‘li, nazariya",
+      "ta’limot"
+    ]
+  },
+  {
+    "q": "“Lotin yozuviga asoslangan o‘zbek alifbosini joriy etish to‘g‘risida”gi qonun qachon qabul qilingan?",
+    "correct": "1993-yil",
+    "wrong": [
+      "1991-yil",
+      "1994-yil",
+      "1996-yil"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatishning qaysi mashqi o‘quvchilar nutqini tushunarli, sof, tiniq, jarangdor bo‘lishiga yordam beradi?",
+    "correct": "Diksiya ustida ishlash",
+    "wrong": [
+      "Tovushlar artikulatsiyasi ustidaishlash",
+      "Tovush ustida ishlash",
+      "Analiz mashqlari"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarning o‘qish darslarida o‘quvchilarning o‘qish malakalarini shakllantirish, asar matni ustida ishlash ta’limning qanday maqsadi hisoblanadi?",
+    "correct": "didaktik",
+    "wrong": [
+      "tarbiyaviy",
+      "gigiyenik",
+      "psixologik"
+    ]
+  },
+  {
+    "q": "O‘qish darslarida qo‘llanadigan metodlar to‘liq ko‘rsatilgan qatorni toping.",
+    "correct": "izohli o‘qish, ijodiy o‘qish, ifodali o‘qish, badiiy o‘qish, tanlab o‘qish, izlanish va reproduktiv metod",
+    "wrong": [
+      "Ijodiy o‘qish, ifodali o‘qish, badiiy o‘qish, tanlab o‘qish, izlanish var eproduktiv metod",
+      "Izohli o‘qish, badiiy o‘qish, tanlab o‘qish, izlanish va reproduktiv metod",
+      "Izohli o‘qish, ijodiy o‘qish, tanlab o‘qish, izlanish va reproduktiv metod"
+    ]
+  },
+  {
+    "q": "O‘qish malakalari deganda nima tushuniladi?",
+    "correct": "badiiy asar matnini to‘g‘ri, tez, ongli va ifodali o‘qish",
+    "wrong": [
+      "Badiiy asa rmatnini tez, ongli va ifodali o‘qish",
+      "Badiiy asar matnini to‘g‘ri, ongli va ifodali o‘qish",
+      "Badiiy asar matnini ongli va ifodali o‘qish"
+    ]
+  },
+  {
+    "q": "Badiiy asar bilan tanishishning qaysi bosqichida yozuvchilar haqida ma’lumot beriladi?",
+    "correct": "Tayyorgarlik bosqichi",
+    "wrong": [
+      "Birinchi sintez bosqichi",
+      "Analiz bosqichi",
+      "Ikkinchi sintez bosqichi"
+    ]
+  },
+  {
+    "q": "Badiiy asar bilan tanishishning qaysi bosqichi notanish va ko‘p ma’noli so‘zlar, murakkabroq obrazli ifodalarni izohlash kabi masalalarni o‘z ichiga oladi?",
+    "correct": "Tayyorgarlik bosqichi",
+    "wrong": [
+      "Analiz bosqichi",
+      "Ikkinchi sintez bosqichi",
+      "Birinchi sintez bosqichi"
+    ]
+  },
+  {
+    "q": "Qaysi o‘qish usulida o‘quvchi matnning berilgan vazifaga mos qismini o‘qiydi?",
+    "correct": "tanlab o‘qish",
+    "wrong": [
+      "Ifodali o‘qish",
+      "Badiiy o‘qish",
+      "Adabiy o‘qish"
+    ]
+  },
+  {
+    "q": "Ovozli va shivirlab o‘qish turidan qaysi sinflarda foydalaniladi?",
+    "correct": "1-2-sinfda",
+    "wrong": [
+      "2-sinfda",
+      "3-sinfda",
+      "4-sinfda"
+    ]
+  },
+  {
+    "q": "Ovozli va ichda o‘qish turidan qaysi sinflarda foydalaniladi?",
+    "correct": "3-4-sinfda",
+    "wrong": [
+      "3-sinfda",
+      "2-sinfda",
+      "4-sinfda"
+    ]
+  },
+  {
+    "q": "Qanday o‘qish ohang yordamida asarning g‘oyasi va jozibasini to‘g‘ri, aniq, yozuvchi niyatiga mos ravishda ifodalay  bilishdir?",
+    "correct": "ifodali o‘qish",
+    "wrong": [
+      "Izohli o‘qish",
+      "Tanlab o‘qish",
+      "Ijodiy o‘qish"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish jarayonining oxirida darsning 2/3 qismi yozuvga ajratilsa nechtagacha so‘z yoza olishlari talab qilinadi?",
+    "correct": "20 tagacha",
+    "wrong": [
+      "15 tagacha",
+      "25 tagacha",
+      "12 tagacha"
+    ]
+  },
+  {
+    "q": "1-sinfning 2-yarim yilligida o‘qish sur’ati necha so‘zdan iborat bo‘ladi?",
+    "correct": "20-25 so‘z",
+    "wrong": [
+      "25-30",
+      "30-35",
+      "35-40"
+    ]
+  },
+  {
+    "q": "2-sinfning 2-yarim yilligida o‘qish sur’ati necha so‘zdan iborat bo‘ladi?",
+    "correct": "40-50 so‘z",
+    "wrong": [
+      "35-40 so‘z",
+      "30-35 so‘z",
+      "40-45 so‘z"
+    ]
+  },
+  {
+    "q": "4-sinfning 1-yarim yilligida o‘qish sur’ati necha so‘zdan iborat bo‘ladi?",
+    "correct": "90-100 so‘z",
+    "wrong": [
+      "80-90 so‘z",
+      "95-110 so‘z",
+      "50-60 so‘z"
+    ]
+  },
+  {
+    "q": "3-sinfning 1-yarim yilligida o‘qish sur’ati necha so‘zdan iborat bo‘ladi?",
+    "correct": "60-70 so‘z",
+    "wrong": [
+      "40-50 so‘z",
+      "55-65-so‘z",
+      "70-80 so‘z"
+    ]
+  },
+  {
+    "q": "4-sinfda otga xos bo‘lgan qaysi xususiyatlar o‘rganilgan?",
+    "correct": "Otni egalik qo‘shimchalari bilan qo‘llanishi, kelishiklar bilan turlanishi, kelishik qo‘shimchalarining yozilishi o‘rganiladi",
+    "wrong": [
+      "Nimani bildirishi, so‘roqlari o‘rganiladi",
+      "Atama berilishi o‘rganiladi",
+      "Birlik va ko‘plikda qo‘llanishi o‘rganiladi"
+    ]
+  },
+  {
+    "q": "«Оna tili» fanidan DTS asоsida tuzilgan yangi darsliklarda asоsan qanday tamоyilga  qat’iy amal qilingan?",
+    "correct": "«Til-mе’yor-nutq» mutanоsibligiga",
+    "wrong": [
+      "Оg’zaki va yozma nutqni o‘stirishga",
+      "Tog’ri javob yoq",
+      "Ta’lim jarayoni sub’еkti faоliyatini ustivоr o‘ringaqo‘yish"
+    ]
+  },
+  {
+    "q": "Otlarning umumiy leksik ma’nosi bu..",
+    "correct": "Shaxs va narsani ifodalashi",
+    "wrong": [
+      "Shaxs va narsaning belgisini ifodalashi",
+      "Shaxs va narsaning sanog‘ini ifodalashi",
+      "Shaxs va narsaning harakatini ifodalashi"
+    ]
+  },
+  {
+    "q": "Otlarning kelishik qo‘shimchalari bilan o‘zgarishi nima deyiladi?",
+    "correct": "Turlanish deyiladi",
+    "wrong": [
+      "Tuslanish deyiladi",
+      "Yangilanish deyiladi.",
+      "Shakllanish deyiladi"
+    ]
+  },
+  {
+    "q": "So‘z turkumlarini o‘tishda dasturda o‘quvchilardan nima talab etiladi?",
+    "correct": "So‘zlarga so‘roq bera olish, ularni bir-biridan farqlash ko‘nikmasini shakllantirishni talab etadi.",
+    "wrong": [
+      "So‘zlarni bir-biridan farqlash ko‘nikmasini shakllantirishni talab etadi.",
+      "So‘zlarga so‘roq bera olish ko‘nikmasini shakllantirishni talab etadi.",
+      "So‘zlarga nechta, qancha? so‘roqlarini bera olish ko‘nikmasini shakllantirishni talab etadi"
+    ]
+  },
+  {
+    "q": "Boshlangʻich sinflarning ona tili dasturi necha qismdan iborat?",
+    "correct": "2 qismdan",
+    "wrong": [
+      "3 qismdan",
+      "4 qismdan",
+      "5 qismdan"
+    ]
+  },
+  {
+    "q": "Matnni necha xil usul bilan tasvirlash mumkin?",
+    "correct": "so‘z bilan tasvirlash; grafik tasvirlash.",
+    "wrong": [
+      "so‘z bilan tasvirlash",
+      "grafik tasvirlash.",
+      "Tasvirlash usuli yo‘q"
+    ]
+  },
+  {
+    "q": "Ona tili darslarining turlari toʻgʻri korsatilgan qatorni toping.",
+    "correct": "yangi materialni o‘rganish darsi, bilimni mustahkamlash darsi, umumlashtiruvchi-takrorlash darsi, bilimlarning qanchalik o‘zlashtirilganini hisobga olish (tekshiruv) dars",
+    "wrong": [
+      "yangi materialni o‘rganish darsi, bilimni mustahkamlash darsi, aralash dars",
+      "yangi materialni o‘rganish darsi, bilimni mustahkamlash darsi, bilimlarning qanchalik o‘zlashtirilganini hisobga olish (tekshiruv) dars",
+      "umumlashtiruvchi-takrorlash darsi, bilimlarning qanchalik o‘zlashtirilganini hisobga olish (tekshiruv) dars"
+    ]
+  },
+  {
+    "q": "Kichik yoshdagi o‘quvchilar og‘zaki va yozma nutqni egallashlarida fonetikadan olgan bilimlarining ahamiyati to‘g‘ri qayd etilgan qatorni ko‘rsating.",
+    "correct": "Fonetik bilimga asoslangan holda o‘qish va yozishni bilib oladilar, fonetik bilim so‘zni to‘g‘ri talaffuz qilish asosini tashkil etadi,  imloviy malakalarni shakllantirish uchun zamin tayyorlaydi, gapni ohangiga rioya qilib o‘qishga yordam beradi, so‘zning tovush tomonini bilishi esa uning ma’nosini tushunishga yordam beradi.",
+    "wrong": [
+      "So‘zni, uning bo‘g‘in tuzilishini tushunishga yordam beradi, imloviy malakalarni shakllantirish uchun zamin tayyorlaydi, so‘zlarni tovush tomondan tahlil qilishga o‘rgatadi, gaplarni ohangiga rioya qilib o‘qishga, logik urg‘u va gap qurilishidagi to‘xtamlarga rioya qilish uchun zarur.",
+      "Fonetik bilimlar o‘zbek yozuvi fonologik yozuv ekanini, 29 ta harf, 30 ta tovush borligini uqtiradi, ularni to‘g‘ri talaffuz qilish va to‘g‘ri yozishga o‘rgatadi",
+      "Fonetik bilimlar to‘g‘ri talaffuzga o‘rgatadi, tovushlarning turlari, o‘zgarishi, urg‘u, fonetik birliklar haqida ma’lumot beradi"
+    ]
+  },
+  {
+    "q": "DTS bo‘yicha 2-4 sinf ona tili  darslariga haftada necha soat vaqt ajratilgan?",
+    "correct": "5 soatdan",
+    "wrong": [
+      "4 soatdan",
+      "3 soatdan",
+      "6 soatdan"
+    ]
+  },
+  {
+    "q": "2-sinfda Ot so‘z turkumi bo‘yicha beriladigan bilimlar nimalardan iborat?",
+    "correct": "Otlarning leksik ma’nosi, atoqli va turdosh otlar atamasiz o‘rgatiladi.",
+    "wrong": [
+      "Otlarning birlik va ko‘plikda qo‘llanishi ustida ishlanadi.",
+      "Otlarning egalik qo‘shimchalari bilan qo‘llanishi o‘rgatiladi.",
+      "Turdosh otlar haqida ma’lumot beriladi."
+    ]
+  },
+  {
+    "q": "Boshlangʻich sinflarda ovozdor tovushlar qanday nom ostida o’rgatiladi?",
+    "correct": "Jufti  yo‘q jarangli undosh tovush",
+    "wrong": [
+      "Ovozdorlar",
+      "Jufti  yo‘q jarangsiz undosh tovush",
+      "Nom berilmaydi"
+    ]
+  },
+  {
+    "q": "Agar bilimni shakllantirish xarakteriga asoslanilsa, grammatik mashqlar qanday guruhlarga bo‘linadi?",
+    "correct": "morfologik mashqlar va sintaktik mashqlar",
+    "wrong": [
+      "leksik-morfologik mashqlar va analitik mashqlar",
+      "sintetik mashqlar va leksik mashqlar",
+      "taqqoslash va umumlashtirish mashqlari"
+    ]
+  },
+  {
+    "q": "Matnga mazmunga mos otni qo‘yish, qaysi kelishik ekanini ko‘rsatish talab etilsa, bu qanday mashq turiga kiradi?",
+    "correct": "leksik-morfologik mashq",
+    "wrong": [
+      "analitik mashq",
+      "sintetik mashq",
+      "sintaktik mashq"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinfda ona tilini o‘rgatishning yetakchi tamoyilini toping.",
+    "correct": "Tilning barcha jihatlarini o‘zaro bog‘liq holda o‘rganish – yetakchi tamoyil",
+    "wrong": [
+      "Fonetika bilan grafikani o‘zaro bog‘liq holda o‘rgatish – yetakchi  tamoyil",
+      "Grafika bilan orfografiyani bog‘liq holda o‘rganish – yetakchi tamoyil",
+      "Morfologiya bilan sintaksisni bog‘liq holda o‘rganish – yetakchi tamoyil"
+    ]
+  },
+  {
+    "q": "Qaysi metod orqali o‘quvchi tayyor qoida – ta’rif bilan tanishadi va uning mohiyatini til dalillari asosida ochadi?",
+    "correct": "deduksiya metodida",
+    "wrong": [
+      "induksiya metodida",
+      "analiz-sintez metodida",
+      "mustaqil ish metodida"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda so‘zlarning morfemik tarkibi ustida ishlash necha bosqichda amalga oshiriladi?",
+    "correct": "4 bosqichda",
+    "wrong": [
+      "2 bosqichda",
+      "3 bosqichda",
+      "5 bosqichda"
+    ]
+  },
+  {
+    "q": "So‘zlarning morfemik tarkibi ustida ishlashning nechanchi bosqichida bir xil asosli so‘zlarning xususiyatlari va barcha morfemalarning mohiyati bilan tanishtiriladi?",
+    "correct": "3-bosqichda",
+    "wrong": [
+      "4-bosqichda",
+      "2-bosqichda",
+      "1-bosqichda"
+    ]
+  },
+  {
+    "q": "So‘z yasovchi qo‘shimchani ongli o‘zlashtirishning birinchi guruh mashqlari qaysi javobda berilgan?",
+    "correct": "har xil so‘z yasovchi qo‘shimcha qo‘shish bilan hosil bo‘lgan bir xil asosli so‘zlarning ma’no jihatdan farqini qiyoslash",
+    "wrong": [
+      "matndan asosdosh so‘zlarni topish, ularning ma’nosidagi farqni aytish",
+      "bir so‘z yasovchi qo‘shimchani har xil so‘zlarga qo‘shishdan hosil bo‘lgan so‘zlarda so‘z yasovchi qo‘shimchaning ma’nosini qiyoslash",
+      "matnni leksik-grammatik va leksik-stilistik jihatdan tahlil qilish"
+    ]
+  },
+  {
+    "q": "So‘z yasovchi qo‘shimchani ongli o‘zlashtirishning ikkinchi guruh mashqlari qaysi javobda berilgan?",
+    "correct": "bir so‘z yasovchi qo‘shimchani har xil so‘zlarga qo‘shishdan hosil bo‘lgan so‘zlarda so‘z yasovchi qo‘shimchaning ma’nosini qiyoslash",
+    "wrong": [
+      "matndan asosdosh so‘zlarni topish, ularning ma’nosidagi farqni aytish",
+      "har xil so‘z yasovchi qo‘shimcha qo‘shish bilan hosil bo‘lgan bir xil asosli so‘zlarning ma’no jihatdan farqini qiyoslash",
+      "matnni leksik-grammatik va leksik-stilistik jihatdan tahlil qilish"
+    ]
+  },
+  {
+    "q": "So‘z yasovchi qo‘shimchani ongli o‘zlashtirishning uchinchi guruh mashqlari qaysi javobda berilgan?",
+    "correct": "matnni leksik-grammatik va leksik-stilistik jihatdan tahlil qilish",
+    "wrong": [
+      "matndan asosdosh so‘zlarni topish, ularning ma’nosidagi farqni aytish",
+      "bir so‘z yasovchi qo‘shimchani har xil so‘zlarga qo‘shishdan hosil bo‘lgan so‘zlarda so‘z yasovchi qo‘shimchaning ma’nosini qiyoslash",
+      "har xil so‘z yasovchi qo‘shimcha qo‘shish bilan hosil bo‘lgan bir xil asosli so‘zlarning ma’no jihatdan farqini qiyoslash"
+    ]
+  },
+  {
+    "q": "Ona tili o‘qitish metodikasi qanday fanlar qatoriga kiradi?",
+    "correct": "Pedagogik fan",
+    "wrong": [
+      "Ilmiy nazariy fan",
+      "Tabiiy fan",
+      "Ilmiy –tabiiy fan"
+    ]
+  },
+  {
+    "q": "Ona tili o‘qitish metodikasining ob’ektini  ko‘rsatilgan javobni toping.",
+    "correct": "Ta’lim berish jarayoni",
+    "wrong": [
+      "Ona tilining imlo qoidalarini, og‘zaki nutqni egallash",
+      "Ona tilining tovush tuzilishi va grafikasini egallash",
+      "Ta’lim berish jarayonida barkamol shaxsni tarbiyalash"
+    ]
+  },
+  {
+    "q": "Ona tili o‘qitish metodikasiga ilmiy asos bo‘ladigan fanlar:",
+    "correct": "Fonetika va fonologiya, leksika, frazeologiya, so‘z yasalishi va etimologiya, morfologiya va sintaksis, uslubiyat, orfoepiya, orfografiya, grafika, adabiyotshunoslik",
+    "wrong": [
+      "Fonetika, leksika, so‘z yasalishi, morfologiya, sintaksis, grafika, orfografiya",
+      "Fonetika, leksika, leksikografiya, grammatika, orfografiya",
+      "Fonetika, grafika, orfoepiya, leksikologiya, grammatika, dialektologiya, uslubiyat"
+    ]
+  },
+  {
+    "q": "Ona tili ta’limining asоsiy vоsitasi nima?",
+    "correct": "DTS talablariga muvоfiq tuzilgan оna tili darsligi",
+    "wrong": [
+      "DTS taqоzоsida yaratilgan оna tili dasturi",
+      "Bayonlar to‘plami",
+      "Diktantlar to‘plami"
+    ]
+  },
+  {
+    "q": "Ona tili o‘qitish metodikasi bog‘liq bo‘lgan fanlar:",
+    "correct": "Pedagogika-psixologiya, umumiy pedagogika, psixolingvistika, didaktik, adabiyotshunoslik",
+    "wrong": [
+      "Pedagogika, didaktika, psixologiya, falsafa, tilshunoslik.",
+      "Adabiyotshunoslik, arxeologiya",
+      "San’atshunoslik, etnografiya."
+    ]
+  },
+  {
+    "q": "Ona tili o‘qitish metodikasiga ilmiy asos bo‘lmaydigan fanlar:",
+    "correct": "Dialektologiya",
+    "wrong": [
+      "Fonetika",
+      "Leksika",
+      "Grammatika"
+    ]
+  },
+  {
+    "q": "Ona tili o‘qitish metodikasining tamoyillari:",
+    "correct": "Nutq organlarining o‘sishiga, nutq malakalarining to‘g‘ri rivojlanishiga e’tibor berish, til ma’nolarini tushunish, tilga sezgirlikni o‘stirish, nutqning ifodaliligiga baho berish, og‘zaki nutqni yozma nutqdan oldin o‘zlashtirish.",
+    "wrong": [
+      "Til materiyasiga e’tibor berish, til ma’nolarini tushunish.",
+      "Sezgirlikni o‘stirish, so‘zning lug‘aviy ma’nosini, emotsional ottenkalarini tushunish",
+      "Imloviy sezgirlikni o‘stirish."
+    ]
+  },
+  {
+    "q": "Nazariy tekshirish metodi nimalarga tadbiq etiladi?",
+    "correct": "Izlanishning asosiy yo‘nalishini belgilash, masala tarixini o‘rganish, o‘zaro bog‘lik fanlarning tekshirish metodlarini o‘rganish, amaliy yo‘l bilan olingan materiallarni analiz qilish va umumlashtirish uchun",
+    "wrong": [
+      "Yangi dastur va darsliklarning muvofiqligini tekshirishga, uning qay darajada foydaliligini aniqlash uchun",
+      "Tajriba jarayonida to‘plangan metodlarni ilmiy o‘rganish uchun",
+      "O‘qituvchilarning ish tajribasini o‘rganish va ommalashtirish uchun"
+    ]
+  },
+  {
+    "q": "Eksperement o‘z vazifasiga ko‘ra:",
+    "correct": "Yangi metod, yangi darslik va qo‘llanmalarning muvofiqligini, qay darajada foydaliligini va samaradorligini aniqlaydi",
+    "wrong": [
+      "Metodlarning muvofiqligi, foydaliligi, samaradorligini aniqlaydi",
+      "Ko‘rgazma va tavsiyalarning samaradorligini aniqlaydi",
+      "Darslik, dastur, qo‘llanmalarning muvofiqligi, foydaliligi, samaradorliligini tekshiradi."
+    ]
+  },
+  {
+    "q": "Qаndаy vоsitаlаr yordаmidа o‘qitish mаqsаdlаri аmаlgа оshirilаdi?",
+    "correct": "didаktik sistеmа",
+    "wrong": [
+      "didаktik vositalar",
+      "didаktik protsess",
+      "didаktik tajriba"
+    ]
+  },
+  {
+    "q": "Psixologo-lingvistik nuqtai nazardan analitik-sintetik tovush metodida nimalarga ahamiyat beriladi?",
+    "correct": "Savod o‘rgatishda bolaning egallagan nutq malakasiga asoslanadi. Savod o‘rgatishning asosiga tovush, o‘qish birligi sifatida bug‘in olinadi. Tovush va harfni o‘rgatishning qulay tartibi, tovush va harfning mosligi va osonligi, ta’limning tarbiyaviy va o‘stiruvchan harakteri hisobga olinadi.",
+    "wrong": [
+      "Savod o‘rgatishda o‘quvchilarning fonematik eshitish qobiliyatlari, tovushlarni to‘g‘ri talaffuz qilishlari, analiz, sintez mashqlari asos qilib olinadi.",
+      "Savod o‘rgatishda o‘quvchining o‘qish va yozishni bila olishi, gaplarni ifodali qilib o‘qiy olishi hisobga olinadi.",
+      "Savod o‘rgatishda o‘quvchining xotirasi, tovush va harflarni taniy olishi, bug‘inlab o‘qiy olishi asos qilib olinadi."
+    ]
+  },
+  {
+    "q": "“O‘quvchi tayyor qoida – ta’rif bilan tanishadi va uning mohiyatini til dalillari asosida ochadi.” Ta’rif qaysi metod uchun berilgan?",
+    "correct": "deduksiya",
+    "wrong": [
+      "Induksiya",
+      "Suhbat",
+      "Analiz-sintez"
+    ]
+  },
+  {
+    "q": "O‘quvchi asar mazmunini unda ishtirok etuvchi shaxslar xatti-harakatini aniq ko‘z oldiga keltira olsa, natija qanday bo‘ladi?",
+    "correct": "U hikoyaning asosiy mazmunini shunchalik chuqur tushunadi, mustaqil qayta hikoya qilib beradi",
+    "wrong": [
+      "U hikoyaning badiiy vositalarini shunchalik yaxshi anglab yetadi, to‘liq tahlil qila oladi",
+      "U hikoyaning grammatik tuzilmasini yaxshi o‘zlashtiradi, to‘g‘ri yozadi",
+      "U hikoyaning lug‘aviy boyligini shunchalik tez o‘rganadi, ko‘p so‘z yodlaydi"
+    ]
+  },
+  {
+    "q": "Qayta hikoyalashda o‘qilgan hikoya mazmuni yuzasidan qanday masalalarga e’tibor qaratilishi lozim?",
+    "correct": "O‘qituvchining savoli, ayrim voqealar o‘rtasidagi bog‘lanishning sabab-natijalari haqida fikrlashga e’tibor qaratilishi lozim",
+    "wrong": [
+      "She’riy satrlar, badiiy tasvir vositalari va qofiya tizimiga e’tibor qaratilishi lozim",
+      "Muallif uslubi, grammatik tuzilma va lug‘aviy boylikka e’tibor qaratilishi lozim",
+      "Asar sarlavhasi, muallif niyati va adabiy janrga e’tibor qaratilishi lozim"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinf o‘quvchilari uchun matnni qanday qayta hikoyalash oson?",
+    "correct": "To‘liq yoki matnga yaqin qayta hikoyalash ancha oson",
+    "wrong": [
+      "Qisqartirib qayta hikoyalash ancha oson",
+      "Tanlab qayta hikoyalash ancha oson",
+      "Ijodiy qayta hikoyalash ancha oson"
+    ]
+  },
+  {
+    "q": "O‘quvchini o‘qishga o‘rgatish qanday yo‘llar bilan amalga оshiriladi?",
+    "correct": "O‘quvchi o‘qishga o‘rgatish asоsan ikki хil yo‘l bilan amalga оshiriladi: birinchi bеrilgan matnni o‘quvchining оvоzini chiqarib o‘qishi: ikkinchisi matnni nchida o‘qish.",
+    "wrong": [
+      "Оvоz chiqarib o‘qish bоshlangich ta’limda bоlalarning оngli o‘qishini ti’minlоvchi zaruriy hartlardan biri sanaladi.",
+      "Оvоz chiqarib o‘qishdabоlalarni navbat bilan yoki хo‘r bilan o‘qitish rоllarga bo‘lib o‘qitish yod оldirish kabi turlari orqali.",
+      "Ichda o‘qish mashqlari o‘quvchilarda mustaqil o‘qish ko‘nikmalarini takоmillashtiriladi"
+    ]
+  },
+  {
+    "q": "O‘zbеkistоn bayrоg‘idagi ramziy bеlgilar 3-4 sinflarda qaysi so‘z turkumiga eng хaraktеrli amaliy matеrial bo‘ladi?",
+    "correct": "Sifatga",
+    "wrong": [
+      "Yordamchi so‘zlarga",
+      "Fе’lga",
+      "Ravishga"
+    ]
+  },
+  {
+    "q": "To‘g‘ri o‘qishga berilgan qaysi tarifni noto‘g‘ri deb bilasiz?",
+    "correct": "Adabiy talaffuz normalariga rioya qilgan holda o‘qish to‘g‘ri o‘qish deyiladi.",
+    "wrong": [
+      "Materialning tovush tomonidan xatosiz va bir tekisda ravon nusxa ko‘chirish to‘g‘ri o‘qish deyiladi.",
+      "So‘zdagi tovushni, bo‘g‘inni tushirib qoldirmay yoki ortiqcha tovush qo‘shmay o‘qish to‘g‘ri o‘qish deyiladi.",
+      "Xato qilmasdan, yanglishmasdan o‘qish to‘g‘ri o‘qish deyiladi."
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinf o‘qish darslarida qaysi o‘qish turlaridan foydalaniladi?",
+    "correct": "Ichda o‘qish, shivirlab o‘qish va ovoz chiqarib o‘qishdan",
+    "wrong": [
+      "Ichda o‘qish va shivirlab o‘qishdan",
+      "Shivirlab o‘qish va ovoz chiqarib o‘qishdan",
+      "Ichda o‘qishdan"
+    ]
+  },
+  {
+    "q": "Turmush tajribalari zamirida tug‘ulgan va xalq donoligini ifodolagan qisqa, ko‘pincha she’riy shakldagi hikmatli so‘zlar, chuqur ma’noli iboralar aks ettirilgan janr nima?",
+    "correct": "maqol",
+    "wrong": [
+      "masal",
+      "she’r",
+      "latifa"
+    ]
+  },
+  {
+    "q": "Ona tilidan bahs-munоzara darslari ta’lim jarayoni subеktlarini nimaga o‘rgatadi, bunday darslarqanday tashkil qilinadi?",
+    "correct": "Оldindan ma’lum qilingan o‘rganiladigan matеrial har bir savоl, masala yuzasidan subеkt o‘z shaхsiy fikrini bayon qiladi, o‘quvchini ijоdiy fikrlashga o‘rgatadi",
+    "wrong": [
+      "Оldindan ma’lum qilingan o‘rganiladigan matеrial – har bir savоl, masala yuzasidan subеkt o‘z shaхsiy fikrini bayon qiladi",
+      "O‘quvchini ijоdiy fikrlashga o‘rgatadi",
+      "Bahs-munоzara savоllari o‘qituvchi tоmоnidan tuziladi"
+    ]
+  },
+  {
+    "q": "Chirоyli yozuv malakalari shakllantirishda eng asоsiy vazifalari qaysilar?",
+    "correct": "Yozma, bоsma harf shakllarini tanishtirish",
+    "wrong": [
+      "Partaga to‘g‘ri o‘tirish",
+      "Ruchkadan to‘g‘ri fоydalanish",
+      "Daftardan fоydalanish"
+    ]
+  },
+  {
+    "q": "To‘g‘ri o‘qishni ta’minlovchi shartlar qaysi javobda to‘g‘ri berilgan?",
+    "correct": "Matnni o‘qishdan oldin o‘qilishi va tuzilishi murakkab so‘zlarni, birikma va gaplarni va ular ustida ishlash usullarini belgilab olish lozim. Ko‘p bo‘g‘inli, murakkab so‘zlarni darstaxtaga yoki kartonga bo‘g‘inlab yozib, oldin bo‘g‘inlab, so‘ng sidirg‘a o‘qitiladi.",
+    "wrong": [
+      "So‘z ma`nolarini tushuntirish.",
+      "Matnni ichda va ovoz chiqarib qayta-qayta o‘qish, o‘qiganlarini to‘liq qayta hikoya qildirish",
+      "Asarni o‘quvchilarga zanjir usulida o‘qitish, so‘z ma’nolarini izohlash"
+    ]
+  },
+  {
+    "q": "Fоnеtika bo‘limini o‘qitishda qanday o‘quv tоpshiriqlari оrqali o‘quvchilar so‘z bоyligi оshiriladi?",
+    "correct": "Tоvushdоsh, ma’nоdоsh, uyadоsh so‘zlar ustida ishlash",
+    "wrong": [
+      "Mashqlar",
+      "So‘zlarning ma’nо nоzikligi, оlinma so‘zlar ustida ishlash",
+      "Gap va matn ustida ishlash"
+    ]
+  },
+  {
+    "q": "«Tovushlar va harflar» mavzusini o‘rganishda qaysi metoddan foydalaniladi?",
+    "correct": "Tahlil-tarkib metodidan",
+    "wrong": [
+      "Mustaqil ish metodidan",
+      "Til faktlarini kuzatish",
+      "Amaliy ish metodidan"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinfda ona tilini o‘rgatishning yetakchi prinsipini toping.",
+    "correct": "Tilning barcha tomonlarini uzaro bog‘liq holda o‘rganish – yetakchi prinsip.",
+    "wrong": [
+      "Fonetika bilan grafikani bog‘lik holda o‘rgatish – yetakchi prinsip.",
+      "Morfologiya bilan sintaksisni bog‘liq holda o‘rganish – yetakchi prinsip.",
+      "Grafika bilan orfografiyani bog‘liq holda o‘rganish – yetakchi prinsip."
+    ]
+  },
+  {
+    "q": "2-sinf o‘quvchilarining o‘qish malakasi qaysi bosqichga to‘g‘ri keladi?",
+    "correct": "Bo‘g‘inlab sidirg‘a o‘qish bosqichiga",
+    "wrong": [
+      "Harflarni qo‘shgan holda bo‘g‘inlab o‘qish bosqichiga",
+      "Bo‘g‘inlab o‘qish bosqichiga",
+      "Sidirg‘a o‘qish bosqichiga"
+    ]
+  },
+  {
+    "q": "Fоnеtik mashq turlarida qanday bilim va ko‘nikmalar mustahkamlanadi?",
+    "correct": "Bo‘g‘in va tоvushlarni eshitib va talaffuz qilib bir-biridan farqlashga, tоvushlarni alоhida va so‘z ichida talaffuz qilish ko‘nikmalari mustahkamlanadi",
+    "wrong": [
+      "O‘quvchining nutq madaniyatini, to‘g‘ri yozuv malakalarini o‘stiradi.",
+      "Оna tilining mоrfоlоgik qurilishini tushunibоlishlariga yordam bеradi.",
+      "Sintaktik tushunchalar"
+    ]
+  },
+  {
+    "q": "Metod yunoncha so‘zdan olingan bo‘lib qanday ma’nolarni anglatadi?",
+    "correct": "bilish va tadqiqot yo‘li, nazariya, ta’limot",
+    "wrong": [
+      "nazariya, ta’limot",
+      "bilish va tadqiqot yo‘li, nazariya",
+      "ta’limot"
+    ]
+  },
+  {
+    "q": "O‘qish va yozuv darslariga qo‘yiladigan umumdidaktik talablar",
+    "correct": "Dars tarbiyalovchi xarakterda bo‘lsin, ta’limiy maqsadni amalga oshirsin, izchil va istiqboli, samarali xilma-xil metod va usullardan tanlansin, dars materiali ilmiy va muvofiq o‘quvchilarning saviyasi hisobga olinsin",
+    "wrong": [
+      "Nutq ifodali, obrazli, aniq mantiqiy to‘g‘ri: yozuv mazmunli va savodli bo‘lsin, tilga sezgirlikni tarbiyalash",
+      "Aqliy mehantga o‘rgatuvchi usullardan foydalanilsin",
+      "O‘rganiladigan mavzularning ilmiyligiga, izchilligiga va o‘quvchilar talabi hisobga olinsin"
+    ]
+  },
+  {
+    "q": "Mоrfоlоgik mashqlar o‘tkazish orqali qanday nazariy bilimlar mustahkamlanadi?",
+    "correct": "So‘zlarning mоrfоlоgik tarkibi va so‘z turkumlariga оid bilimlar",
+    "wrong": [
+      "Gapning ma’nо turlari, so‘z birikmalari haqida nazariy bilimlar",
+      "So‘z tarkibiga оid bilimlar",
+      "So‘zlarning so‘z va ko‘chma ma’nоsi mustahkamlanadi"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatishning asosiy metodlari ko‘rsatilgan javobni belgilang.",
+    "correct": "Analitik-sintetik tovush metodi.",
+    "wrong": [
+      "Suhbat va tushuntirish metodi.",
+      "Muammoli yarim izlanish metodi.",
+      "Bayon qilish metodi."
+    ]
+  },
+  {
+    "q": "Tez aytish qanday janr sifatida ta’riflanadi?",
+    "correct": "Ma’lum til birligini to‘g‘ri talaffuz qilishga, tovushlarni farqlashga o‘rgatadigan, xotirani mustahkamlaydigan va nutqni o‘stiradigan, o‘qish sur’atini oshiradigan janr",
+    "wrong": [
+      "She’riy shakldagi tarixiy voqealarni tasvirlovchi, so‘zlari bir-biriga o‘xshash talaffuz qilinadigan asar",
+      "Faqat bolalar uchun mo‘ljallangan qisqa she’r bo‘lib, xotirani mustahkamlaydigan va nutqni o‘stiradigan janr",
+      "Grammatik qoidalarni o‘rgatuvchi mashq turi bo‘lib, tovushlarni farqlashga o‘rgatadigan, xotirani mustahkamlaydigan janr"
+    ]
+  },
+  {
+    "q": "1-sinfda tez aytishlar nima maqsadda kiritilgan?",
+    "correct": "O‘qish sur’atini oshirish va to‘g‘ri talaffuzni o‘rgatish maqsadida",
+    "wrong": [
+      "Ko‘ngilochar va o‘quvchilar lug‘at boyligini oshiruvchi vosita sifatida",
+      "Grammatik qoidalarni mustahkamlash uchun",
+      "Yod olish ko‘nikmalarini oshirish uchun"
+    ]
+  },
+  {
+    "q": "Topishmoq, maqol va tez aytishlarni o‘rganish boshlang‘ich sinflarda qanday tartibda amalga oshiriladi?",
+    "correct": "Dastlab har bir darsda amalga oshirilib boriladi; alohida dars sifatida o‘rganishda esa o‘qituvchilar turli usullardan foydalanishlari mumkin",
+    "wrong": [
+      "Maxsus alohida darslarda o‘rganiladi, o‘quvchilar lug‘at boyligini oshiradi",
+      "Uyga vazifa sifatida beriladi, o‘quvchilar turli usullardan foydalanishlari mumkin",
+      "Bo‘lim yakuni yoki yil oxiridagi umumlashtiruvchi darsda o‘rganiladi, o‘qituvchilar turli usullardan foydalanishlari mumkin"
+    ]
+  },
+  {
+    "q": "Maqollarni o‘rganishda ko‘rgazmalilik tamoyili qanday amalga oshiriladi?",
+    "correct": "Nazariyaning amaliyot bilan bog‘liqligi, ta’lim-tarbiyaning birligi tamoyillariga amal qilish orqali",
+    "wrong": [
+      "Rasmlar ko‘rsatish, nazariyaning amaliyot bilan bog‘liqligi orqali",
+      "Videomateriallar, rasmlar, taqdimotni ko‘rsatish, ta’lim-tarbiyaning birligi tamoyillariga amal qilish orqali",
+      "Rasmlar ko‘rsatish, video va audiomateriallar, slaydlar namoyish etish, tarqatma materiallardan foydalanish, ya’ni ko‘rgazmalilik tamoyiliga amal qilish orqali"
+    ]
+  },
+  {
+    "q": "4-sinf yakunida maqol janrini o‘rganish yuzasidan qanday turdagi ish tashkil qilinishi zarur?",
+    "correct": "Umumlashtiruvchi dars; o‘quvchilarga yod olingan maqollar mavzusiga qarab guruhlash ustida ish olib boriladi",
+    "wrong": [
+      "Yozma imtihon o‘tkaziladi, o‘quvchilarning yod olgan maqollar soniga qarab monitoring qilish ustida ishlanadi",
+      "Maqollar musobaqasi o‘tkaziladi, o‘quvchilarga yod olingan maqollar mavzusiga qarab guruhlash ustida ish olib boriladi",
+      "Maqollar lug‘ati tuziladi, o‘quvchilarga yod olingan maqollar mavzusiga qarab guruhlash ustida ish olib boriladi"
+    ]
+  },
+  {
+    "q": "Maqol matnidagi qarama-qarshi va ma’nodosh so‘zlarni aniqlash qanday maqsadga xizmat qiladi?",
+    "correct": "Ularning maqolda ifoda etilgan g‘oya bilan aloqasini ochishga",
+    "wrong": [
+      "O‘quvchilarning lug‘at boyligini oshirishga",
+      "Grammatik tahlil ko‘nikmalarini shakllantirishga",
+      "Imlo qoidalarini mustahkamlashga"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish davrida maqollar qanday maqsadda qo‘llaniladi? Javoblarini amiqlang: 1. Matn g‘oyasini o‘quvchilarga lo‘nda va aniq yetkazish uchun xizmat qiladi; 2. Imlo qoidalarini o‘rganishga tayyorlash uchun; 3. Matn g‘oyasini o‘quvchilarga oson va tez yetkazish va grammatik qoidalarni o‘rgatish uchun; 4. Faqat yod oldirish uchun; 5. O‘quvchilarga maqollar o‘qitiladi, ma’nosini bilganlaricha izohlab berishlari so‘raladi.",
+    "correct": "1, 3, 5",
+    "wrong": [
+      "1, 2, 3",
+      "2, 3, 4",
+      "2, 3, 5"
+    ]
+  },
+  {
+    "q": "Maqollarni o‘rganishda 3-4-sinflarda ijodiy topshiriqlar qatorini toping: 1. “Asar g‘oyasiga oid maqol ayting”; 2. “Maqollar asosida krossvord tuzing, rebus yarating”; 3. “Maqollar aytish musobaqasi”; 4. “Maqollar mushoirasi”; 5. “Maqollarni yod oling”; 6. “Yozma ishni bajaring”; 7. “Maqol matnini grammatik jihatdan tahlil qiling”; 8. “Maqol mazmuniga mos keladigan rasm chizing”.",
+    "correct": "1, 2, 3, 4",
+    "wrong": [
+      "1, 2, 5, 6",
+      "1, 3, 5, 7",
+      "2, 4, 6, 8"
+    ]
+  },
+  {
+    "q": "Topishmoq, latifa va tez aytishlarni boshlang‘ich sinf darsliklariga kiritishda qanday mezonlarga rioya qilinadi?",
+    "correct": "O‘quvchilar yoshiga mos, mavzular bo‘yicha tanlab olingan, ko‘proq tarbiyaviy ahamiyatga ega bo‘lgan topishmoq, latifa va tez aytishlar tanlab kiritilishi maqsadga muvofiqdir",
+    "wrong": [
+      "O‘quvchilar yoshiga mos, mavzular bo‘yicha tanlab olingan, ular uchun qiziqarli bo‘lganlari tanlanadi",
+      "O‘quvchilar yoshiga mos, mavzular bo‘yicha tanlab olingan, eng qadimiy namunalar kiritiladi",
+      "O‘quvchilar yoshiga mos, mavzular bo‘yicha tanlab olingan, faqat bolalar shoirlari tomonidan yozilganlari kiritiladi"
+    ]
+  },
+  {
+    "q": "Javoblarning qaysi birida mustaqil kitobxonlik faoliyatini shakllantirish bosqichlari to‘liq ko‘rsatilgan?",
+    "correct": "Mustaqil kitobxonlik faoliyatini shakllantirish 3 bosqichda: tayyorgarlik bosqichi, boshlang‘ich bosqich, asosiy bosqich orqali amalga oshiriladi",
+    "wrong": [
+      "Mustaqil kitobxonlik faoliyatini shakllantirish 3 bosqichda: birinchi sintez bosqichi, analiz bosqich, ikkinchi sintez bosqich orqali amalga oshiriladi",
+      "Mustaqil kitobxonlik faoliyatini shakllantirish 5 bosqichda amalga oshiriladi: tayyorgarlik bosqichi, kirish bosqichi, boshlang‘ich bosqich, asosiy bosqich, xulosa bosqichi",
+      "Mustaqil kitobxonlik faoliyatini shakllantirish 2 bosqichda amalga oshadi: boshlang‘ich bosqich, asosiy bosqich"
+    ]
+  },
+  {
+    "q": "Sinfdan tashqari o‘qish (STO‘) tarbiyaning asosiy quroli sifatida qanday vazifani bajaradi?",
+    "correct": "Maktab o‘quvchisini o‘qish malakasi bilan qurollantirish bilan bir qatorda kitobni mustaqil o‘qiy oladigan, uni tushunadigan, ma’lum mavzuga oid kitoblarni tanlay oladigan, gazeta va jurnallarni ham mustaqil o‘qiydigan faol kitobxonni tarbiyalaydi",
+    "wrong": [
+      "Kitobni mustaqil o‘qiy oladigan, uni tushunadigan, grammatik savodxonlik kitobxonni tarbiyalashga xizmat qiladi",
+      "Badiiy asarlarni o‘qitishga qaratilgan bo‘lib, gazeta va jurnallarni ham mustaqil o‘qiydigan faol kitobxonni tarbiyalaydi",
+      "Darslik matnlarini mustahkamlashga yordam berib, ma’lum mavzuga oid kitoblarni tanlay oladigan, gazeta va jurnallarni ham mustaqil o‘qiydigan faol kitobxonni tarbiyalaydi"
+    ]
+  },
+  {
+    "q": "STO‘ning asosiy maqsadi nima?",
+    "correct": "O‘qish malakalarini takomillashtirish, kitob tanlay oladigan, muntazam kitob o‘qiydigan, o‘qilgan kitobni to‘g‘ri baholay oladigan ongli kitobxonni tarbiyalash",
+    "wrong": [
+      "O‘quvchilarning o‘qish malakalarini takomillashtirish, yozma malakasini oshirish",
+      "O‘quvchilarni darslikdan tashqari boshqa adabiyotlar va asarlar bilan tanishtirish, o‘qish malakalarini takomillashtirish",
+      "She’r va maqollarni yod oldirish, o‘qish malakalarini takomillashtirish, o‘qilgan kitobni to‘g‘ri baholay oladigan ongli kitobxonni tarbiyalash"
+    ]
+  },
+  {
+    "q": "Maktablarda STO‘ darslari qachondan boshlangan?",
+    "correct": "1959-yildan",
+    "wrong": [
+      "1958-yildan",
+      "1991-yildan",
+      "1969-yildan"
+    ]
+  },
+  {
+    "q": "STO‘ darslari uchun 1-2-sinfda qancha vaqt ajratiladi?",
+    "correct": "Haftada 1 marta",
+    "wrong": [
+      "Haftada 2 marta",
+      "Haftada 3 marta",
+      "Oyda 1 marta"
+    ]
+  },
+  {
+    "q": "Savod o‘rgatish jarayonida STO‘ uchun qancha vaqt ajratiladi?",
+    "correct": "Haftadagi oxirgi alifbe darsining 17-20 daqiqasi",
+    "wrong": [
+      "Alohida 45 daqiqalik dars ajratiladi",
+      "Haftada 2 marta 20 daqiqadan",
+      "Kundalik darsning birinchi 10 daqiqasi"
+    ]
+  },
+  {
+    "q": "O‘quvchilarda kitobga havas uyg‘otishda qanday yondashuv zarur?",
+    "correct": "Har bir bolaga yakka tartibda yondashish, shaxsiy qiziqishlarini hisobga olish zarur",
+    "wrong": [
+      "Barcha o‘quvchilarga bir xil kitoblarni tavsiya qilish kerak",
+      "Darslik matnlarini o‘qitish bilan cheklanish kerak",
+      "O‘quvchilarning yoshini hisobga olgan holda kitob tanlash kerak"
+    ]
+  },
+  {
+    "q": "STO‘ darslarining muhim vazifalaridan biri qaysi?",
+    "correct": "Mustaqil o‘qish malakalarini tarbiyalash",
+    "wrong": [
+      "Yod olish malakasini oshirish",
+      "Tahlil qilish ko‘nikmalarini shakllantirish",
+      "Grammatik tahlil qilish malakasini rivojlantirish"
+    ]
+  },
+  {
+    "q": "Sinfda o‘qish va STO‘ o‘rtasidagi munosabat qanday?",
+    "correct": "Sinfda o‘qish STO‘ uchun zarur bo‘lgan o‘qish malakalarini shakllantiradi, o‘quvchilarning o‘qigan asarini tushunishga o‘rgatadi, lug‘atini boyitadi; sinfda o‘qish — hayotga tayyorlash vositasi, STO‘ esa hayotning o‘zidir",
+    "wrong": [
+      "Sinfda o‘qish va STO‘ bir-biridan butunlay mustaqil jarayonlar, sinfda o‘qish — hayotga tayyorlash vositasi, STO‘ esa hayotning o‘zidir",
+      "STO‘ sinfda o‘qishdan muhimroq hisoblanadi, sinfda o‘qish — hayotga tayyorlash vositasi, STO‘ esa hayotning o‘zidir",
+      "Sinfda o‘qish STO‘ga hech qanday ta’sir ko‘rsatmaydi, har birining o‘zini maqsadi,  vazifalari, shakllantirish bosqichlari va ish turlari mavjud; umumiy tomoni o‘quvchilar lug‘atini boyitadi"
+    ]
+  },
+  {
+    "q": "Mustaqil o‘qish malakasini shakllantirish necha bosqichda amalga oshiriladi?",
+    "correct": "3 bosqichda",
+    "wrong": [
+      "2 bosqichda",
+      "4 bosqichda",
+      "5 bosqichda"
+    ]
+  },
+  {
+    "q": "STO‘ning 1-bosqichi (Tayyorlov bosqichi) qaysi sinfga to‘g‘ri keladi?",
+    "correct": "1-sinfning savod o‘rgatish davriga",
+    "wrong": [
+      "2-sinfning birinchi yarmiga",
+      "3-sinfning boshlanishiga",
+      "4-sinfning oxiriga"
+    ]
+  },
+  {
+    "q": "Tayyorlov bosqichida STO‘ mashg‘ulotiga qancha vaqt ajratiladi?",
+    "correct": "Darsning bir qismi - 17-20 daqiqa",
+    "wrong": [
+      "To‘liq 45 daqiqalik dars",
+      "Darsning bir qismi - 10-15 daqiqa",
+      "Darsning bir qismi - 20-30 daqiqa"
+    ]
+  },
+  {
+    "q": "STO‘ tayyorlov bosqichida o‘qituvchi qanday asarlarni tanlaydi?",
+    "correct": "Kichik hajmda bo‘lishiga va boshqa kitob tanlash tamoyillariga e’tibor beradi; asarni o‘qituvchining o‘zi o‘qib beradi, yoki audio matni tinglanadi",
+    "wrong": [
+      "She’riy asarlar tanlanadi; asarni o‘qituvchining o‘zi o‘qib beradi, yoki audio matni tinglanadi",
+      "Faqat ertaklar tanlanadi; asarni o‘qituvchining o‘zi o‘qib beradi, yoki audio matni tinglanadi",
+      "Hikoya va ilmiy-ommabop asarlar tanlanadi; asarni o‘qituvchining o‘zi o‘qib beradi, yoki audio matni tinglanadi"
+    ]
+  },
+  {
+    "q": "STO‘ darsi boshlang‘ich bosqichi qaysi sinfga to‘g‘ri keladi?",
+    "correct": "1-sinfning 2-yarim yilligiga",
+    "wrong": [
+      "2-sinfning boshlanishiga",
+      "3-sinfning o‘rtasiga",
+      "4-sinfning birinchi yarmiga"
+    ]
+  },
+  {
+    "q": "STO‘ darsi boshlang‘ich bosqichida o‘tkaziladigan dars qancha vaqt davom etadi?",
+    "correct": "Haftada 1 marta 45 daqiqalik dars",
+    "wrong": [
+      "Haftada 2 marta 20 daqiqalik dars",
+      "Haftada 1 marta 17-20 daqiqalik mashg‘ulot",
+      "Oyda 1 marta 90 daqiqalik dars"
+    ]
+  },
+  {
+    "q": "STO‘ darsi boshlang‘ich bosqichida asarni o‘qishdan oldin o‘quvchilar nima bilan tanishadilar?",
+    "correct": "Asar nomi va uning muallifi bilan tanishadilar, rasmlarini tomosha qiladilar, daftarlariga u haqda soddagina qilib asar muallifini va nomini yozadilar",
+    "wrong": [
+      "Asar sarlavhasini yozib oladilar, rasmlarini tomosha qiladilar, daftarlariga asar muallifini yozadilar",
+      "Muallif tarjimai holini o‘rganadilar, rasmlarini tomosha qiladilar, daftarlariga u haqda soddagina qilib asar muallifini va nomini yozadilar",
+      "Asarning dastlabki sahifasini o‘qib ko‘radilar, rasmlarini tomosha qiladilar, daftarlariga asar muallifini va nomini yozadilar"
+    ]
+  },
+  {
+    "q": "Asosiy bosqich qaysi sinflarga to‘g‘ri keladi?",
+    "correct": "2-4-sinflarga",
+    "wrong": [
+      "4-sinfga",
+      "3-sinfga",
+      "3-4-sinflarga"
+    ]
+  },
+  {
+    "q": "STO‘ asosiy bosqichida o‘quvchilarni baholashda qanday talablarga tayaniladi?",
+    "correct": "Dastur talablariga asoslaniladi: o‘qigan kitoblarining sifat o‘zlashtirishiga, miqdoriga, o‘qigan kitobiga munosabat bildira olishiga e’tibor beriladi",
+    "wrong": [
+      "Dastur talablariga asoslaniladi: o‘qigan kitoblari va asarlari soniga e’tibor beriladi",
+      "Dastur talablariga asoslaniladi:  yod olgan she’rlar soniga qarab baholanadi",
+      "Dastur talablariga asoslaniladi: o‘qigan kitoblarining sifat o‘zlashtirishiga, miqdoriga, yozma ishlar asosida baholanadi"
+    ]
+  },
+  {
+    "q": "O‘quvchilarning og‘zaki va yozma nutqini o‘stirishdagi muvaffaqiyat qanday omillarga bog‘liq?",
+    "correct": "So‘zga e’tibor bilan munosabatda bo‘lish, o‘quvchilarning ko‘p mutolaa qilishi, atrofidagilarning to‘g‘ri va ifodali nutqi, bolalarning nutqiy tajribasi qanday tashkil etilishiga, nutq o‘stirishda o‘qituvchining til nazariyasiga, grammatikaga, leksikologiya va stilistika elementlariga asoslanish ko‘nikmasiga",
+    "wrong": [
+      "So‘zga e’tibor bilan munosabatda bo‘lish, o‘quvchilarning ko‘p mutolaa qilishi, atrofidagi kishilarning to‘g‘ri va ifodali nutqi, ya’ni nutqiy sharoitga, leksikologiya va stilistika elementlariga asoslanish ko‘nikmasiga",
+      "Bolalarning nutqiy tajribasi qanday tashkil etilishiga, nutq o‘stirishda o‘qituvchining til nazariyasiga, grammatikaga, leksikologiya va stilistika elementlariga asoslanish ko‘nikmasiga",
+      "Nutq o‘stirishda o‘qituvchining til nazariyasiga, nutq o‘stirishda o‘qituvchining til nazariyasiga, grammatikaga, leksikologiya va stilistika elementlariga asoslanish ko‘nikmasiga"
+    ]
+  },
+  {
+    "q": "Nutq qanday o‘stiriladi?",
+    "correct": "Nutq tafakkur bilan uzviy bog‘liq holda o‘stiriladi",
+    "wrong": [
+      "Nutq tafakkurdan mustaqil ravishda alohida o‘stiriladi",
+      "Nutq tafakkur bilan vaqti-vaqti bilan bog‘liq holda o‘stiriladi",
+      "Nutq tafakkurga qarama-qarshi jarayon sifatida o‘stiriladi"
+    ]
+  },
+  {
+    "q": "O‘qilgan asarni tahlil qilishda qanday mantiqiy usullar qo‘llaniladi?",
+    "correct": "Tahlil, sintez, taqqoslash, umumlashtirish kabi mantiqiy usullar qo‘llaniladi",
+    "wrong": [
+      "Yodlash, takrorlash, ko‘chirish, diktant kabi usullar qo‘llaniladi",
+      "Tahlil qilish, izohlash, o‘zgartirish, solishtirish usullari qo‘llaniladi",
+      "Tasvirlash, bayon etish, ifodalash, kuzatish usullari qo‘llaniladi"
+    ]
+  },
+  {
+    "q": "O‘qituvchi asardagi qahramonlarni aytishda o‘quvchilardan qanday tartibni so‘raydi?",
+    "correct": "O‘qituvchi ularni asarda qatnashish tartibida aytishni so‘raydi",
+    "wrong": [
+      "O‘qituvchi ularni alifbo tartibida aytishni so‘raydi",
+      "O‘qituvchi ularni yoshidan kattasidan kichigiga qarab aytishni so‘raydi",
+      "O‘qituvchi ularni o‘quvchi xohlaganicha tartibda aytishni so‘raydi"
+    ]
+  },
+  {
+    "q": "Asar mazmuni bilan birinchi tanishish o‘quvchilardan nimani talab etadi?",
+    "correct": "Voqealarni, qatnashuvchilar tarkibini tahlil qilishni talab etadi",
+    "wrong": [
+      "Asarni darhol yod olishni va ifodali o‘qishni talab etadi",
+      "Asar muallifini va janrini aniqlashni talab etadi",
+      "Asardagi notanish so‘zlarni lug‘atdan topishni talab etadi"
+    ]
+  },
+  {
+    "q": "Boshlang‘ich sinflarda o‘quvchilar nutqini o‘stirishning to‘g‘ri uyushtirilgan shakli qaysi?",
+    "correct": "Qayta hikoya qilish",
+    "wrong": [
+      "Diktant yozish",
+      "Bayon yozish",
+      "Insho yozish"
+    ]
+  },
+  {
+    "q": "Maktab tajribasida qayta hikoyalashning qanday turlari mavjud?",
+    "correct": "To‘liq, qisqartirib, tanlab va ijodiy qayta hikoya qilish turlari mavjud",
+    "wrong": [
+      "Og‘zaki, yozma, rasmli va dramatik qayta hikoya qilish turlari mavjud",
+      "Individual, juft, guruh va jamoaviy qayta hikoya qilish turlari mavjud",
+      "Sintetik, analitik, qiyosiy va umumlashtiruvchi qayta hikoya turlari mavjud"
+    ]
+  }
+]
